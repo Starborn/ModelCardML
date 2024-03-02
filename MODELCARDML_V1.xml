@@ -1,0 +1,1369 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<office:document-content xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" office:version="1.2">
+  <office:font-face-decls>
+    <style:font-face style:name="Courier New" style:font-family-generic="modern" style:font-pitch="fixed" svg:font-family="'Courier New'" />
+  </office:font-face-decls>
+  <office:automatic-styles>
+    <style:style style:name="fr2" style:family="graphic" style:parent-style-name="Formula"><style:graphic-properties style:vertical-pos="middle" style:vertical-rel="text" style:horizontal-pos="center" style:horizontal-rel="paragraph-content" style:wrap="none" /></style:style>
+    <style:style style:name="fr1" style:family="graphic" style:parent-style-name="Formula"><style:graphic-properties style:vertical-pos="middle" style:vertical-rel="text" /></style:style>
+    <style:style style:name="P1" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P2" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P3" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P4" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P5" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P6" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P7" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P8" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P9" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P10" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P11" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P12" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P13" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P14" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P15" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P16" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P17" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P18" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P19" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P20" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P21" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P22" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P23" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P24" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P25" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P26" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P27" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P28" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P29" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P30" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P31" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P32" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P33" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P34" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P35" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P36" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P37" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P38" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P39" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P40" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P41" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P42" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P43" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P44" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P45" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P46" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P47" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P48" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P49" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P50" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P51" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P52" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P53" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P54" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P55" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P56" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P57" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P58" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P59" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P60" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P61" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P62" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P63" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P64" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P65" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P66" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P67" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P68" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P69" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P70" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P71" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P72" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P73" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P74" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P75" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P76" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P77" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P78" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P79" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P80" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P81" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P82" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P83" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P84" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P85" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P86" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P87" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P88" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P89" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P90" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P91" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P92" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P93" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P94" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P95" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P96" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P97" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P98" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P99" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P100" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P101" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P102" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P103" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P104" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P105" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P106" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P107" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P108" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P109" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P110" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P111" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P112" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P113" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P114" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P115" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P116" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P117" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P118" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P119" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P120" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P121" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P122" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P123" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P124" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P125" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P126" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P127" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P128" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P129" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P130" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P131" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P132" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P133" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P134" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P135" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P136" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P137" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P138" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P139" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P140" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P141" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P142" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P143" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P144" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P145" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P146" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P147" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P148" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P149" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P150" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P151" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P152" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P153" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P154" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P155" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P156" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P157" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P158" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P159" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P160" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P161" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P162" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P163" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P164" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P165" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P166" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P167" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P168" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P169" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P170" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P171" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P172" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P173" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P174" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P175" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P176" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P177" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P178" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P179" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P180" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P181" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P182" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P183" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P184" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P185" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P186" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P187" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P188" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P189" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P190" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P191" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P192" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P193" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P194" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P195" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P196" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P197" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P198" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P199" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P200" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P201" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P202" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P203" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P204" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P205" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P206" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P207" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P208" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P209" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P210" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P211" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P212" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P213" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P214" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P215" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P216" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P217" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P218" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P219" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P220" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P221" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P222" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P223" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P224" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P225" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P226" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P227" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P228" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P229" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P230" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P231" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P232" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P233" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P234" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P235" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P236" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P237" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P238" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P239" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P240" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P241" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P242" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P243" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P244" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P245" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P246" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P247" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P248" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P249" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P250" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P251" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P252" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P253" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P254" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P255" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P256" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P257" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P258" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P259" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P260" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P261" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P262" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P263" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P264" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P265" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P266" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P267" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P268" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P269" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P270" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P271" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P272" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P273" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P274" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P275" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P276" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P277" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P278" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P279" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P280" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P281" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P282" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P283" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P284" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P285" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P286" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P287" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P288" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P289" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P290" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P291" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P292" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P293" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P294" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P295" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P296" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P297" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P298" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P299" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P300" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P301" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P302" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P303" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P304" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P305" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P306" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P307" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P308" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P309" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P310" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P311" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P312" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P313" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P314" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P315" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P316" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P317" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P318" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P319" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P320" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P321" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P322" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P323" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P324" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P325" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P326" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P327" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P328" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P329" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P330" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P331" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P332" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P333" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P334" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P335" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P336" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P337" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P338" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P339" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P340" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P341" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P342" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P343" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P344" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P345" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P346" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P347" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P348" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P349" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P350" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P351" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P352" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P353" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P354" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P355" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P356" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P357" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P358" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P359" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P360" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P361" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P362" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+    <style:style style:name="P363" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+    </style:style>
+  </office:automatic-styles>
+<office:body>
+<office:text>
+<text:p text:style-name="Text_20_body">&lt;!doctype html&gt;</text:p>
+<text:p text:style-name="Text_20_body"></text:p>
+<text:p text:style-name="Text_20_body"> </text:p>
+<text:p text:style-name="Text_20_body"> </text:p>
+<text:p text:style-name="Text_20_body"> </text:p>
+<text:p text:style-name="Text_20_body">Annotated Model Card
+Template</text:p>
+<text:p text:style-name="P1">&lt;div class=&quot;SVELTE_HYDRATER contents&quot; data-props=&quot;{&amp;quot;classNames&amp;quot;:&amp;quot;&amp;quot;,&amp;quot;avatarUrl&amp;quot;:&amp;quot;https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/1646104902183-621d8a8d411b802eb0b70615.png?w=200&amp;amp;h=200&amp;amp;f=face&amp;quot;,&amp;quot;isWide&amp;quot;:true,&amp;quot;isZh&amp;quot;:false,&amp;quot;user&amp;quot;:&amp;quot;STARBORN&amp;quot;,&amp;quot;unreadNotifications&amp;quot;:0,&amp;quot;csrf&amp;quot;:&amp;quot;eyJkYXRhIjp7ImV4cGlyYXRpb24iOjE3MDk0MzA5OTg0OTksInVzZXJJZCI6IjYyMWQ4YThkNDExYjgwMmViMGI3MDYxNSJ9LCJzaWduYXR1cmUiOiJhOTg1ZjVhZjZjOTQ2YmM2NTA2YzkxYWVlNzRiNDhlYjhmNTFjNzYzODNlMjIxYWI5ZmJmMzZhNjNiM2YwN2M4In0=&amp;quot;}&quot; data-target=&quot;MainHeader&quot;&gt;&lt;header class=&quot;border-b border-gray-100 &quot;&gt;&lt;div class=&quot;w-full px-4 <text:s text:c="1" />flex h-16 items-center&quot;&gt;&lt;div class=&quot;flex flex-1 items-center&quot;&gt;&lt;a class=&quot;mr-5 flex flex-none items-center lg:mr-6&quot; href=&quot;/&quot;&gt;&lt;img alt=&quot;Hugging Face's logo&quot; class=&quot;w-7 md:mr-2&quot; src=&quot;/front/assets/huggingface_logo-noborder.svg&quot;&gt;</text:p>
+<text:p text:style-name="P2"><text:s text:c="12" />&lt;span class=&quot;hidden whitespace-nowrap text-lg font-bold md:block&quot;&gt;Hugging Face&lt;/span&gt;&lt;/a&gt;</text:p>
+<text:p text:style-name="P3"><text:s text:c="8" />&lt;div class=&quot;relative flex-1 lg:max-w-sm mr-2 sm:mr-4 md:mr-3 xl:mr-6&quot;&gt;&lt;input autocomplete=&quot;off&quot; class=&quot;w-full dark:bg-gray-950 pl-8 form-input-alt h-9 pr-3 focus:shadow-xl &quot; name=&quot;&quot; placeholder=&quot;Search models, datasets, users...&quot; <text:s text:c="1" />spellcheck=&quot;false&quot; type=&quot;text&quot; value=&quot;&quot;&gt;</text:p>
+<text:p text:style-name="P4">&lt;svg class=&quot;absolute left-2.5 text-gray-400 top-1/2 transform -translate-y-1/2&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot; xmlns:xlink=&quot;http://www.w3.org/1999/xlink&quot; aria-hidden=&quot;true&quot; focusable=&quot;false&quot; role=&quot;img&quot; width=&quot;1em&quot; height=&quot;1em&quot; preserveAspectRatio=&quot;xMidYMid meet&quot; viewBox=&quot;0 0 32 32&quot;&gt;&lt;path d=&quot;M30 28.59L22.45 21A11 11 0 1 0 21 22.45L28.59 30zM5 14a9 9 0 1 1 9 9a9 9 0 0 1-9-9z&quot; fill=&quot;currentColor&quot;&gt;&lt;/path&gt;&lt;/svg&gt;</text:p>
+<text:p text:style-name="P5">&lt;/div&gt;</text:p>
+<text:p text:style-name="P6"><text:s text:c="8" />&lt;div class=&quot;flex flex-none items-center justify-center p-0.5 place-self-stretch lg:hidden&quot;&gt;&lt;button class=&quot;relative z-40 flex h-6 w-8 items-center justify-center&quot; type=&quot;button&quot;&gt;&lt;svg width=&quot;1em&quot; height=&quot;1em&quot; viewBox=&quot;0 0 10 10&quot; class=&quot;text-xl&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot; xmlns:xlink=&quot;http://www.w3.org/1999/xlink&quot; aria-hidden=&quot;true&quot; focusable=&quot;false&quot; role=&quot;img&quot; preserveAspectRatio=&quot;xMidYMid meet&quot; fill=&quot;currentColor&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; clip-rule=&quot;evenodd&quot; d=&quot;M1.65039 2.9999C1.65039 2.8066 1.80709 2.6499 2.00039 2.6499H8.00039C8.19369 2.6499 8.35039 2.8066 8.35039 2.9999C8.35039 3.1932 8.19369 3.3499 8.00039 3.3499H2.00039C1.80709 3.3499 1.65039 3.1932 1.65039 2.9999ZM1.65039 4.9999C1.65039 4.8066 1.80709 4.6499 2.00039 4.6499H8.00039C8.19369 4.6499 8.35039 4.8066 8.35039 4.9999C8.35039 5.1932 8.19369 5.3499 8.00039 5.3499H2.00039C1.80709 5.3499 1.65039 5.1932 1.65039 4.9999ZM2.00039 6.6499C1.80709 6.6499 1.65039 6.8066 1.65039 6.9999C1.65039 7.1932 1.80709 7.3499 2.00039 7.3499H8.00039C8.19369 7.3499 8.35039 7.1932 8.35039 6.9999C8.35039 6.8066 8.19369 6.6499 8.00039 6.6499H2.00039Z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;</text:p>
+<text:p text:style-name="P7"><text:s text:c="4" />&lt;/button&gt;</text:p>
+<text:p text:style-name="P8"></text:p>
+<text:p text:style-name="P9">&lt;/div&gt;&lt;/div&gt;</text:p>
+<text:p text:style-name="P10"><text:s text:c="4" />&lt;nav aria-label=&quot;Main&quot; class=&quot;ml-auto hidden lg:block&quot;&gt;&lt;ul class=&quot;flex items-center space-x-1.5 xl:space-x-2&quot;&gt;&lt;li&gt;&lt;a class=&quot;group flex items-center px-2 py-0.5 dark:hover:text-gray-400 hover:text-indigo-700&quot; href=&quot;/models&quot;&gt;&lt;svg class=&quot;mr-1.5 text-gray-400 group-hover:text-indigo-500&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot; xmlns:xlink=&quot;http://www.w3.org/1999/xlink&quot; aria-hidden=&quot;true&quot; focusable=&quot;false&quot; role=&quot;img&quot; width=&quot;1em&quot; height=&quot;1em&quot; preserveAspectRatio=&quot;xMidYMid meet&quot; viewBox=&quot;0 0 24 24&quot;&gt;&lt;path class=&quot;uim-quaternary&quot; d=&quot;M20.23 7.24L12 12L3.77 7.24a1.98 1.98 0 0 1 .7-.71L11 2.76c.62-.35 1.38-.35 2 0l6.53 3.77c.29.173.531.418.7.71z&quot; opacity=&quot;.25&quot; fill=&quot;currentColor&quot;&gt;&lt;/path&gt;&lt;path class=&quot;uim-tertiary&quot; d=&quot;M12 12v9.5a2.09 2.09 0 0 1-.91-.21L4.5 17.48a2.003 2.003 0 0 1-1-1.73v-7.5a2.06 2.06 0 0 1 .27-1.01L12 12z&quot; opacity=&quot;.5&quot; fill=&quot;currentColor&quot;&gt;&lt;/path&gt;&lt;path class=&quot;uim-primary&quot; d=&quot;M20.5 8.25v7.5a2.003 2.003 0 0 1-1 1.73l-6.62 3.82c-.275.13-.576.198-.88.2V12l8.23-4.76c.175.308.268.656.27 1.01z&quot; fill=&quot;currentColor&quot;&gt;&lt;/path&gt;&lt;/svg&gt;</text:p>
+<text:p text:style-name="P11"><text:s text:c="16" />Models&lt;/a&gt;</text:p>
+<text:p text:style-name="P12"><text:s text:c="8" />&lt;/li&gt;&lt;li&gt;&lt;a class=&quot;group flex items-center px-2 py-0.5 dark:hover:text-gray-400 hover:text-red-700&quot; href=&quot;/datasets&quot;&gt;&lt;svg class=&quot;mr-1.5 text-gray-400 group-hover:text-red-500&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot; xmlns:xlink=&quot;http://www.w3.org/1999/xlink&quot; aria-hidden=&quot;true&quot; focusable=&quot;false&quot; role=&quot;img&quot; width=&quot;1em&quot; height=&quot;1em&quot; preserveAspectRatio=&quot;xMidYMid meet&quot; viewBox=&quot;0 0 25 25&quot;&gt;&lt;ellipse cx=&quot;12.5&quot; cy=&quot;5&quot; fill=&quot;currentColor&quot; fill-opacity=&quot;0.25&quot; rx=&quot;7.5&quot; ry=&quot;2&quot;&gt;&lt;/ellipse&gt;&lt;path d=&quot;M12.5 15C16.6421 15 20 14.1046 20 13V20C20 21.1046 16.6421 22 12.5 22C8.35786 22 5 21.1046 5 20V13C5 14.1046 8.35786 15 12.5 15Z&quot; fill=&quot;currentColor&quot; opacity=&quot;0.5&quot;&gt;&lt;/path&gt;&lt;path d=&quot;M12.5 7C16.6421 7 20 6.10457 20 5V11.5C20 12.6046 16.6421 13.5 12.5 13.5C8.35786 13.5 5 12.6046 5 11.5V5C5 6.10457 8.35786 7 12.5 7Z&quot; fill=&quot;currentColor&quot; opacity=&quot;0.5&quot;&gt;&lt;/path&gt;&lt;path d=&quot;M5.23628 12C5.08204 12.1598 5 12.8273 5 13C5 14.1046 8.35786 15 12.5 15C16.6421 15 20 14.1046 20 13C20 12.8273 19.918 12.1598 19.7637 12C18.9311 12.8626 15.9947 13.5 12.5 13.5C9.0053 13.5 6.06886 12.8626 5.23628 12Z&quot; fill=&quot;currentColor&quot;&gt;&lt;/path&gt;&lt;/svg&gt;</text:p>
+<text:p text:style-name="P13"><text:s text:c="16" />Datasets&lt;/a&gt;</text:p>
+<text:p text:style-name="P14"><text:s text:c="8" />&lt;/li&gt;&lt;li&gt;&lt;a class=&quot;group flex items-center px-2 py-0.5 dark:hover:text-gray-400 hover:text-blue-700&quot; href=&quot;/spaces&quot;&gt;&lt;svg class=&quot;mr-1.5 text-gray-400 group-hover:text-blue-500&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot; xmlns:xlink=&quot;http://www.w3.org/1999/xlink&quot; aria-hidden=&quot;true&quot; focusable=&quot;false&quot; role=&quot;img&quot; width=&quot;1em&quot; height=&quot;1em&quot; viewBox=&quot;0 0 25 25&quot;&gt;&lt;path opacity=&quot;.5&quot; d=&quot;M6.016 14.674v4.31h4.31v-4.31h-4.31ZM14.674 14.674v4.31h4.31v-4.31h-4.31ZM6.016 6.016v4.31h4.31v-4.31h-4.31Z&quot; fill=&quot;currentColor&quot;&gt;&lt;/path&gt;&lt;path opacity=&quot;.75&quot; fill-rule=&quot;evenodd&quot; clip-rule=&quot;evenodd&quot; d=&quot;M3 4.914C3 3.857 3.857 3 4.914 3h6.514c.884 0 1.628.6 1.848 1.414a5.171 5.171 0 0 1 7.31 7.31c.815.22 1.414.964 1.414 1.848v6.514A1.914 1.914 0 0 1 20.086 22H4.914A1.914 1.914 0 0 1 3 20.086V4.914Zm3.016 1.102v4.31h4.31v-4.31h-4.31Zm0 12.968v-4.31h4.31v4.31h-4.31Zm8.658 0v-4.31h4.31v4.31h-4.31Zm0-10.813a2.155 2.155 0 1 1 4.31 0 2.155 2.155 0 0 1-4.31 0Z&quot; fill=&quot;currentColor&quot;&gt;&lt;/path&gt;&lt;path opacity=&quot;.25&quot; d=&quot;M16.829 6.016a2.155 2.155 0 1 0 0 4.31 2.155 2.155 0 0 0 0-4.31Z&quot; fill=&quot;currentColor&quot;&gt;&lt;/path&gt;&lt;/svg&gt;</text:p>
+<text:p text:style-name="P15"><text:s text:c="16" />Spaces&lt;/a&gt;</text:p>
+<text:p text:style-name="P16"><text:s text:c="8" />&lt;/li&gt;&lt;li&gt;&lt;a class=&quot;group flex items-center px-2 py-0.5 dark:hover:text-gray-400 hover:text-yellow-700&quot; href=&quot;/posts&quot;&gt;&lt;svg class=&quot;mr-1.5 text-gray-400 group-hover:text-yellow-500 !text-yellow-500&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot; xmlns:xlink=&quot;http://www.w3.org/1999/xlink&quot; aria-hidden=&quot;true&quot; focusable=&quot;false&quot; role=&quot;img&quot; width=&quot;1em&quot; height=&quot;1em&quot; viewBox=&quot;0 0 12 12&quot; preserveAspectRatio=&quot;xMidYMid meet&quot;&gt;&lt;path fill=&quot;currentColor&quot; fill-rule=&quot;evenodd&quot; d=&quot;M3.73 2.4A4.25 4.25 0 1 1 6 10.26H2.17l-.13-.02a.43.43 0 0 1-.3-.43l.01-.06a.43.43 0 0 1 .12-.22l.84-.84A4.26 4.26 0 0 1 3.73 2.4Z&quot; clip-rule=&quot;evenodd&quot;&gt;&lt;/path&gt;&lt;/svg&gt;</text:p>
+<text:p text:style-name="P17"><text:s text:c="16" />Posts&lt;/a&gt;</text:p>
+<text:p text:style-name="P18"><text:s text:c="8" />&lt;/li&gt;&lt;li&gt;&lt;a class=&quot;group flex items-center px-2 py-0.5 dark:hover:text-gray-400 hover:text-yellow-700&quot; href=&quot;/docs&quot;&gt;&lt;svg xmlns=&quot;http://www.w3.org/2000/svg&quot; xmlns:xlink=&quot;http://www.w3.org/1999/xlink&quot; aria-hidden=&quot;true&quot; role=&quot;img&quot; class=&quot;mr-1.5 text-gray-400 group-hover:text-yellow-500&quot; width=&quot;1em&quot; height=&quot;1em&quot; preserveAspectRatio=&quot;xMidYMid meet&quot; viewBox=&quot;0 0 32 32&quot;&gt;&lt;path opacity=&quot;0.5&quot; d=&quot;M20.9022 5.10334L10.8012 10.8791L7.76318 9.11193C8.07741 8.56791 8.5256 8.11332 9.06512 7.7914L15.9336 3.73907C17.0868 3.08811 18.5002 3.26422 19.6534 3.91519L19.3859 3.73911C19.9253 4.06087 20.5879 4.56025 20.9022 5.10334Z&quot; fill=&quot;currentColor&quot;&gt;&lt;/path&gt;&lt;path d=&quot;M10.7999 10.8792V28.5483C10.2136 28.5475 9.63494 28.4139 9.10745 28.1578C8.5429 27.8312 8.074 27.3621 7.74761 26.7975C7.42122 26.2327 7.24878 25.5923 7.24756 24.9402V10.9908C7.25062 10.3319 7.42358 9.68487 7.74973 9.1123L10.7999 10.8792Z&quot; fill=&quot;currentColor&quot; fill-opacity=&quot;0.75&quot;&gt;&lt;/path&gt;&lt;path fill-rule=&quot;evenodd&quot; clip-rule=&quot;evenodd&quot; d=&quot;M21.3368 10.8499V6.918C21.3331 6.25959 21.16 5.61234 20.8346 5.03949L10.7971 10.8727L10.8046 10.874L21.3368 10.8499Z&quot; fill=&quot;currentColor&quot;&gt;&lt;/path&gt;&lt;path opacity=&quot;0.5&quot; d=&quot;M21.7937 10.8488L10.7825 10.8741V28.5486L21.7937 28.5234C23.3344 28.5234 24.5835 27.2743 24.5835 25.7335V13.6387C24.5835 12.0979 23.4365 11.1233 21.7937 10.8488Z&quot; fill=&quot;currentColor&quot;&gt;&lt;/path&gt;&lt;/svg&gt;</text:p>
+<text:p text:style-name="P19"><text:s text:c="16" />Docs&lt;/a&gt;</text:p>
+<text:p text:style-name="P20"><text:s text:c="8" />&lt;/li&gt;</text:p>
+<text:p text:style-name="P21"><text:s text:c="4" />&lt;li class=&quot;max-2xl:hidden&quot;&gt;&lt;div class=&quot;relative &quot;&gt;</text:p>
+<text:p text:style-name="P22">&lt;button class=&quot;px-2 py-0.5 group hover:text-green-700 dark:hover:text-gray-400 flex items-center &quot; type=&quot;button&quot;&gt;</text:p>
+<text:p text:style-name="P23"><text:s text:c="4" />&lt;svg class=&quot;mr-1.5 text-gray-400 group-hover:text-green-500&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot; xmlns:xlink=&quot;http://www.w3.org/1999/xlink&quot; aria-hidden=&quot;true&quot; focusable=&quot;false&quot; role=&quot;img&quot; width=&quot;1em&quot; height=&quot;1em&quot; preserveAspectRatio=&quot;xMidYMid meet&quot; viewBox=&quot;0 0 24 24&quot;&gt;&lt;path class=&quot;uim-tertiary&quot; d=&quot;M19 6H5a3 3 0 0 0-3 3v2.72L8.837 14h6.326L22 11.72V9a3 3 0 0 0-3-3z&quot; opacity=&quot;.5&quot; fill=&quot;currentColor&quot;&gt;&lt;/path&gt;&lt;path class=&quot;uim-primary&quot; d=&quot;M10 6V5h4v1h2V5a2.002 2.002 0 0 0-2-2h-4a2.002 2.002 0 0 0-2 2v1h2zm-1.163 8L2 11.72V18a3.003 3.003 0 0 0 3 3h14a3.003 3.003 0 0 0 3-3v-6.28L15.163 14H8.837z&quot; fill=&quot;currentColor&quot;&gt;&lt;/path&gt;&lt;/svg&gt;</text:p>
+<text:p text:style-name="P24"><text:s text:c="8" />Solutions</text:p>
+<text:p text:style-name="P25"><text:s text:c="4" />&lt;/button&gt;</text:p>
+<text:p text:style-name="P26"></text:p>
+<text:p text:style-name="P27"></text:p>
+<text:p text:style-name="P28">&lt;/div&gt;&lt;/li&gt;</text:p>
+<text:p text:style-name="P29"><text:s text:c="4" />&lt;li&gt;&lt;a class=&quot;group flex items-center px-2 py-0.5 hover:text-gray-500 dark:hover:text-gray-400&quot; href=&quot;/pricing&quot;&gt;Pricing</text:p>
+<text:p text:style-name="P30"><text:s text:c="8" />&lt;/a&gt;&lt;/li&gt;</text:p>
+<text:p text:style-name="P31"></text:p>
+<text:p text:style-name="P32"><text:s text:c="4" />&lt;li&gt;&lt;div class=&quot;relative group&quot;&gt;</text:p>
+<text:p text:style-name="P33">&lt;button class=&quot;px-2 py-0.5 hover:text-gray-500 dark:hover:text-gray-600 flex items-center &quot; type=&quot;button&quot;&gt;</text:p>
+<text:p text:style-name="P34"><text:s text:c="4" />&lt;svg class=&quot;mr-1.5 text-gray-500 w-5 group-hover:text-gray-400 dark:text-gray-300 dark:group-hover:text-gray-400&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot; xmlns:xlink=&quot;http://www.w3.org/1999/xlink&quot; aria-hidden=&quot;true&quot; focusable=&quot;false&quot; role=&quot;img&quot; width=&quot;1em&quot; height=&quot;1em&quot; viewBox=&quot;0 0 32 18&quot; preserveAspectRatio=&quot;xMidYMid meet&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; clip-rule=&quot;evenodd&quot; d=&quot;M14.4504 3.30221C14.4504 2.836 14.8284 2.45807 15.2946 2.45807H28.4933C28.9595 2.45807 29.3374 2.836 29.3374 3.30221C29.3374 3.76842 28.9595 4.14635 28.4933 4.14635H15.2946C14.8284 4.14635 14.4504 3.76842 14.4504 3.30221Z&quot; fill=&quot;currentColor&quot;&gt;&lt;/path&gt;&lt;path fill-rule=&quot;evenodd&quot; clip-rule=&quot;evenodd&quot; d=&quot;M14.4504 9.00002C14.4504 8.53382 14.8284 8.15588 15.2946 8.15588H28.4933C28.9595 8.15588 29.3374 8.53382 29.3374 9.00002C29.3374 9.46623 28.9595 9.84417 28.4933 9.84417H15.2946C14.8284 9.84417 14.4504 9.46623 14.4504 9.00002Z&quot; fill=&quot;currentColor&quot;&gt;&lt;/path&gt;&lt;path fill-rule=&quot;evenodd&quot; clip-rule=&quot;evenodd&quot; d=&quot;M14.4504 14.6978C14.4504 14.2316 14.8284 13.8537 15.2946 13.8537H28.4933C28.9595 13.8537 29.3374 14.2316 29.3374 14.6978C29.3374 15.164 28.9595 15.542 28.4933 15.542H15.2946C14.8284 15.542 14.4504 15.164 14.4504 14.6978Z&quot; fill=&quot;currentColor&quot;&gt;&lt;/path&gt;&lt;path fill-rule=&quot;evenodd&quot; clip-rule=&quot;evenodd&quot; d=&quot;M1.94549 6.87377C2.27514 6.54411 2.80962 6.54411 3.13928 6.87377L6.23458 9.96907L9.32988 6.87377C9.65954 6.54411 10.194 6.54411 10.5237 6.87377C10.8533 7.20343 10.8533 7.73791 10.5237 8.06756L6.23458 12.3567L1.94549 8.06756C1.61583 7.73791 1.61583 7.20343 1.94549 6.87377Z&quot; fill=&quot;currentColor&quot;&gt;&lt;/path&gt;&lt;/svg&gt;</text:p>
+<text:p text:style-name="P35"><text:s text:c="8" /></text:p>
+<text:p text:style-name="P36"><text:s text:c="4" />&lt;/button&gt;</text:p>
+<text:p text:style-name="P37"></text:p>
+<text:p text:style-name="P38"></text:p>
+<text:p text:style-name="P39">&lt;/div&gt;&lt;/li&gt;</text:p>
+<text:p text:style-name="P40"><text:s text:c="4" />&lt;li&gt;&lt;hr class=&quot;h-5 w-0.5 border-none bg-gray-100 dark:bg-gray-800&quot;&gt;&lt;/li&gt;</text:p>
+<text:p text:style-name="P41"><text:s text:c="4" />&lt;li&gt;&lt;form action=&quot;/logout&quot; method=&quot;POST&quot; class=&quot;hidden&quot;&gt;&lt;input type=&quot;hidden&quot; name=&quot;csrf&quot; value=&quot;eyJkYXRhIjp7ImV4cGlyYXRpb24iOjE3MDk0MzA5OTg0OTksInVzZXJJZCI6IjYyMWQ4YThkNDExYjgwMmViMGI3MDYxNSJ9LCJzaWduYXR1cmUiOiJhOTg1ZjVhZjZjOTQ2YmM2NTA2YzkxYWVlNzRiNDhlYjhmNTFjNzYzODNlMjIxYWI5ZmJmMzZhNjNiM2YwN2M4In0=&quot;&gt;&lt;/form&gt;</text:p>
+<text:p text:style-name="P42">&lt;button class=&quot;ml-auto rounded-full ring-2 group ring-indigo-400 focus:ring-blue-500 hover:ring-offset-1 focus:ring-offset-1 focus:outline-none outline-none dark:ring-offset-gray-950 &quot; type=&quot;button&quot;&gt;</text:p>
+<text:p text:style-name="P43"><text:s text:c="4" /></text:p>
+<text:p text:style-name="P44"><text:s text:c="4" />&lt;div class=&quot;relative&quot;&gt;&lt;img alt=&quot;&quot; class=&quot;h-[1.38rem] w-[1.38rem] overflow-hidden rounded-full&quot; src=&quot;https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/1646104902183-621d8a8d411b802eb0b70615.png?w=200&amp;amp;h=200&amp;amp;f=face&quot; crossorigin=&quot;anonymous&quot;&gt;</text:p>
+<text:p text:style-name="P45"><text:s text:c="8" />&lt;/div&gt;</text:p>
+<text:p text:style-name="P46"></text:p>
+<text:p text:style-name="P47"><text:s text:c="4" />&lt;/button&gt;</text:p>
+<text:p text:style-name="P48"></text:p>
+<text:p text:style-name="P49"></text:p>
+<text:p text:style-name="P50">&lt;/div&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/nav&gt;&lt;/div&gt;&lt;/header&gt;&lt;/div&gt;</text:p>
+<text:p text:style-name="P51"></text:p>
+<text:p text:style-name="P52">&lt;div class=&quot;SVELTE_HYDRATER contents&quot; data-props=&quot;{}&quot; data-target=&quot;GoogleAnalyticsTracker&quot;&gt;&lt;/div&gt;</text:p>
+<text:p text:style-name="P53"></text:p>
+<text:p text:style-name="P54"></text:p>
+<text:p text:style-name="P55">&lt;div class=&quot;SVELTE_HYDRATER contents&quot; data-props=&quot;{&amp;quot;organizations&amp;quot;:[]}&quot; data-target=&quot;SSOBanner&quot;&gt;&lt;/div&gt;</text:p>
+<text:p text:style-name="P56"></text:p>
+<text:p text:style-name="P57"></text:p>
+<text:p text:style-name="P58">&lt;main class=&quot;flex flex-1 flex-col&quot;&gt;&lt;div class=&quot;relative lg:flex&quot; id=&quot;hf-doc-container&quot;&gt;&lt;div class=&quot;sticky top-0 z-20 self-start&quot;&gt;&lt;div class=&quot;SVELTE_HYDRATER contents&quot; data-props=&quot;{&amp;quot;chapters&amp;quot;:[{&amp;quot;title&amp;quot;:&amp;quot;🤗 Hugging Face Hub&amp;quot;,&amp;quot;id&amp;quot;:&amp;quot;index&amp;quot;,&amp;quot;url&amp;quot;:&amp;quot;/docs/hub/en/index&amp;quot;},{&amp;quot;title&amp;quot;:&amp;quot;Repositories&amp;quot;,&amp;quot;isExpanded&amp;quot;:true,&amp;quot;id&amp;quot;:&amp;quot;repositories&amp;quot;,&amp;quot;url&amp;quot;:&amp;quot;/docs/hub/en/repositories&amp;quot;,&amp;quot;sections&amp;quot;:[{&amp;quot;title&amp;quot;:&amp;quot;Getting Started with Repositories&amp;quot;,&amp;quot;id&amp;quot;:&amp;quot;repositories-getting-started&amp;quot;,&amp;quot;url&amp;quot;:&amp;quot;/docs/hub/en/repositories-getting-started&amp;quot;},{&amp;quot;title&amp;quot;:&amp;quot;Repository Settings&amp;quot;,&amp;quot;id&amp;quot;:&amp;quot;repositories-settings&amp;quot;,&amp;quot;url&amp;quot;:&amp;quot;/docs/hub/en/repositories-settings&amp;quot;},{&amp;quot;title&amp;quot;:&amp;quot;Pull Requests &amp;amp; Discussions&amp;quot;,&amp;quot;id&amp;quot;:&amp;quot;repositories-pull-requests-discussions&amp;quot;,&amp;quot;url&amp;quot;:&amp;quot;/docs/hub/en/repositories-pull-requests-discussions&amp;quot;},{&amp;quot;title&amp;quot;:&amp;quot;Notifications&amp;quot;,&amp;quot;id&amp;quot;:&amp;quot;notifications&amp;quot;,&amp;quot;url&amp;quot;:&amp;quot;/docs/hub/en/notifications&amp;quot;},{&amp;quot;title&amp;quot;:&amp;quot;Collections&amp;quot;,&amp;quot;id&amp;quot;:&amp;quot;collections&amp;quot;,&amp;quot;url&amp;quot;:&amp;quot;/docs/hub/en/collections&amp;quot;},{&amp;quot;title&amp;quot;:&amp;quot;Webhooks&amp;quot;,&amp;quot;isExpanded&amp;quot;:false,&amp;quot;id&amp;quot;:&amp;quot;webhooks&amp;quot;,&amp;quot;url&amp;quot;:&amp;quot;/docs/hub/en/webhooks&amp;quot;,&amp;quot;sections&amp;quot;:[{&amp;quot;title&amp;quot;:&amp;quot;How-to: Automatic fine-tuning with Auto-Train&amp;quot;,&amp;quot;id&amp;quot;:&amp;quot;webhooks-guide-auto-retrain&amp;quot;,&amp;quot;url&amp;quot;:&amp;quot;/docs/hub/en/webhooks-guide-auto-retrain&amp;quot;},{&amp;quot;title&amp;quot;:&amp;quot;How-to: Build a Discussion bot based on BLOOM&amp;quot;,&amp;quot;id&amp;quot;:&amp;quot;webhooks-guide-discussion-bot&amp;quot;,&amp;quot;url&amp;quot;:&amp;quot;/docs/hub/en/webhooks-guide-discussion-bot&amp;quot;},{&amp;quot;title&amp;quot;:&amp;quot;How-to: Create automatic metadata quality reports&amp;quot;,&amp;quot;id&amp;quot;:&amp;quot;webhooks-guide-metadata-review&amp;quot;,&amp;quot;url&amp;quot;:&amp;quot;/docs/hub/en/webhooks-guide-metadata-review&amp;quot;}]},{&amp;quot;title&amp;quot;:&amp;quot;Repository size recommendations&amp;quot;,&amp;quot;id&amp;quot;:&amp;quot;repositories-recommendations&amp;quot;,&amp;quot;url&amp;quot;:&amp;quot;/docs/hub/en/repositories-recommendations&amp;quot;},{&amp;quot;title&amp;quot;:&amp;quot;Next Steps&amp;quot;,&amp;quot;id&amp;quot;:&amp;quot;repositories-next-steps&amp;quot;,&amp;quot;url&amp;quot;:&amp;quot;/docs/hub/en/repositories-next-steps&amp;quot;},{&amp;quot;title&amp;quot;:&amp;quot;Licenses&amp;quot;,&amp;quot;id&amp;quot;:&amp;quot;repositories-licenses&amp;quot;,&amp;quot;url&amp;quot;:&amp;quot;/docs/hub/en/repositories-licenses&amp;quot;}]},{&amp;quot;title&amp;quot;:&amp;quot;Models&amp;quot;,&amp;quot;isExpanded&amp;quot;:true,&amp;quot;id&amp;quot;:&amp;quot;models&amp;quot;,&amp;quot;url&amp;quot;:&amp;quot;/docs/hub/en/models&amp;quot;,&amp;quot;sections&amp;quot;:[{&amp;quot;title&amp;quot;:&amp;quot;The Model Hub&amp;quot;,&amp;quot;id&amp;quot;:&amp;quot;models-the-hub&amp;quot;,&amp;quot;url&amp;quot;:&amp;quot;/docs/hub/en/models-the-hub&amp;quot;},{&amp;quot;title&amp;quot;:&amp;quot;Model Cards&amp;quot;,&amp;quot;isExpanded&amp;quot;:true,&amp;quot;id&amp;quot;:&amp;quot;model-cards&amp;quot;,&amp;quot;url&amp;quot;:&amp;quot;/docs/hub/en/model-cards&amp;quot;,&amp;quot;sections&amp;quot;:[{&amp;quot;title&amp;quot;:&amp;quot;Annotated Model Card&amp;quot;,&amp;quot;isExpanded&amp;quot;:true,&amp;quot;id&amp;quot;:&amp;quot;model-card-annotated&amp;quot;,&amp;quot;url&amp;quot;:&amp;quot;/docs/hub/en/model-card-annotated&amp;quot;},{&amp;quot;title&amp;quot;:&amp;quot;Carbon Emissions&amp;quot;,&amp;quot;id&amp;quot;:&amp;quot;model-cards-co2&amp;quot;,&amp;quot;url&amp;quot;:&amp;quot;/docs/hub/en/model-cards-co2&amp;quot;},{&amp;quot;title&amp;quot;:&amp;quot;Model Card Guidebook&amp;quot;,&amp;quot;id&amp;quot;:&amp;quot;model-card-guidebook&amp;quot;,&amp;quot;url&amp;quot;:&amp;quot;/docs/hub/en/model-card-guidebook&amp;quot;},{&amp;quot;title&amp;quot;:&amp;quot;Landscape Analysis&amp;quot;,&amp;quot;id&amp;quot;:&amp;quot;model-card-landscape-analysis&amp;quot;,&amp;quot;url&amp;quot;:&amp;quot;/docs/hub/en/model-card-landscape-analysis&amp;quot;},{&amp;quot;title&amp;quot;:&amp;quot;Card Components&amp;quot;,&amp;quot;id&amp;quot;:&amp;quot;model-cards-components&amp;quot;,&amp;quot;url&amp;quot;:&amp;quot;/docs/hub/en/model-cards-components&amp;quot;}]},{&amp;quot;title&amp;quot;:&amp;quot;Gated Models&amp;quot;,&amp;quot;id&amp;quot;:&amp;quot;models-gated&amp;quot;,&amp;quot;url&amp;quot;:&amp;quot;/docs/hub/en/models-gated&amp;quot;},{&amp;quot;title&amp;quot;:&amp;quot;Uploading Models&amp;quot;,&amp;quot;id&amp;quot;:&amp;quot;models-uploading&amp;quot;,&amp;quot;url&amp;quot;:&amp;quot;/docs/hub/en/models-uploading&amp;quot;},{&amp;quot;title&amp;quot;:&amp;quot;Downloading Models&amp;quot;,&amp;quot;id&amp;quot;:&amp;quot;models-downloading&amp;quot;,&amp;quot;url&amp;quot;:&amp;quot;/docs/hub/en/models-downloading&amp;quot;},{&amp;quot;title&amp;quot;:&amp;quot;Integrated Libraries&amp;quot;,&amp;quot;isExpanded&amp;quot;:false,&amp;quot;id&amp;quot;:&amp;quot;models-libraries&amp;quot;,&amp;quot;url&amp;quot;:&amp;quot;/docs/hub/en/models-libraries&amp;quot;,&amp;quot;sections&amp;quot;:[{&amp;quot;title&amp;quot;:&amp;quot;Adapters&amp;quot;,&amp;quot;id&amp;quot;:&amp;quot;adapters&amp;quot;,&amp;quot;url&amp;quot;:&amp;quot;/docs/hub/en/adapters&amp;quot;},{&amp;quot;title&amp;quot;:&amp;quot;AllenNLP&amp;quot;,&amp;quot;id&amp;quot;:&amp;quot;allennlp&amp;quot;,&amp;quot;url&amp;quot;:&amp;quot;/docs/hub/en/allennlp&amp;quot;},{&amp;quot;title&amp;quot;:&amp;quot;BERTopic&amp;quot;,&amp;quot;id&amp;quot;:&amp;quot;bertopic&amp;quot;,&amp;quot;url&amp;quot;:&amp;quot;/docs/hub/en/bertopic&amp;quot;},{&amp;quot;title&amp;quot;:&amp;quot;Asteroid&amp;quot;,&amp;quot;id&amp;quot;:&amp;quot;asteroid&amp;quot;,&amp;quot;url&amp;quot;:&amp;quot;/docs/hub/en/asteroid&amp;quot;},{&amp;quot;title&amp;quot;:&amp;quot;Diffusers&amp;quot;,&amp;quot;id&amp;quot;:&amp;quot;diffusers&amp;quot;,&amp;quot;url&amp;quot;:&amp;quot;/docs/hub/en/diffusers&amp;quot;},{&amp;quot;title&amp;quot;:&amp;quot;ESPnet&amp;quot;,&amp;quot;id&amp;quot;:&amp;quot;espnet&amp;quot;,&amp;quot;url&amp;quot;:&amp;quot;/docs/hub/en/espnet&amp;quot;},{&amp;quot;title&amp;quot;:&amp;quot;fastai&amp;quot;,&amp;quot;id&amp;quot;:&amp;quot;fastai&amp;quot;,&amp;quot;url&amp;quot;:&amp;quot;/docs/hub/en/fastai&amp;quot;},{&amp;quot;title&amp;quot;:&amp;quot;Flair&amp;quot;,&amp;quot;id&amp;quot;:&amp;quot;flair&amp;quot;,&amp;quot;url&amp;quot;:&amp;quot;/docs/hub/en/flair&amp;quot;},{&amp;quot;title&amp;quot;:&amp;quot;Keras&amp;quot;,&amp;quot;id&amp;quot;:&amp;quot;keras&amp;quot;,&amp;quot;url&amp;quot;:&amp;quot;/docs/hub/en/keras&amp;quot;},{&amp;quot;title&amp;quot;:&amp;quot;ML-Agents&amp;quot;,&amp;quot;id&amp;quot;:&amp;quot;ml-agents&amp;quot;,&amp;quot;url&amp;quot;:&amp;quot;/docs/hub/en/ml-agents&amp;quot;},{&amp;quot;title&amp;quot;:&amp;quot;MLX&amp;quot;,&amp;quot;id&amp;quot;:&amp;quot;mlx&amp;quot;,&amp;quot;url&amp;quot;:&amp;quot;/docs/hub/en/mlx&amp;quot;},{&amp;quot;title&amp;quot;:&amp;quot;OpenCLIP&amp;quot;,&amp;quot;id&amp;quot;:&amp;quot;open_clip&amp;quot;,&amp;quot;url&amp;quot;:&amp;quot;/docs/hub/en/open_clip&amp;quot;},{&amp;quot;title&amp;quot;:&amp;quot;PaddleNLP&amp;quot;,&amp;quot;id&amp;quot;:&amp;quot;paddlenlp&amp;quot;,&amp;quot;url&amp;quot;:&amp;quot;/docs/hub/en/paddlenlp&amp;quot;},{&amp;quot;title&amp;quot;:&amp;quot;peft&amp;quot;,&amp;quot;id&amp;quot;:&amp;quot;peft&amp;quot;,&amp;quot;url&amp;quot;:&amp;quot;/docs/hub/en/peft&amp;quot;},{&amp;quot;title&amp;quot;:&amp;quot;RL-Baselines3-Zoo&amp;quot;,&amp;quot;id&amp;quot;:&amp;quot;rl-baselines3-zoo&amp;quot;,&amp;quot;url&amp;quot;:&amp;quot;/docs/hub/en/rl-baselines3-zoo&amp;quot;},{&amp;quot;title&amp;quot;:&amp;quot;Sample Factory&amp;quot;,&amp;quot;id&amp;quot;:&amp;quot;sample-factory&amp;quot;,&amp;quot;url&amp;quot;:&amp;quot;/docs/hub/en/sample-factory&amp;quot;},{&amp;quot;title&amp;quot;:&amp;quot;Sentence Transformers&amp;quot;,&amp;quot;id&amp;quot;:&amp;quot;sentence-transformers&amp;quot;,&amp;quot;url&amp;quot;:&amp;quot;/docs/hub/en/sentence-transformers&amp;quot;},{&amp;quot;title&amp;quot;:&amp;quot;SetFit&amp;quot;,&amp;quot;id&amp;quot;:&amp;quot;setfit&amp;quot;,&amp;quot;url&amp;quot;:&amp;quot;/docs/hub/en/setfit&amp;quot;},{&amp;quot;title&amp;quot;:&amp;quot;spaCy&amp;quot;,&amp;quot;id&amp;quot;:&amp;quot;spacy&amp;quot;,&amp;quot;url&amp;quot;:&amp;quot;/docs/hub/en/spacy&amp;quot;},{&amp;quot;title&amp;quot;:&amp;quot;SpanMarker&amp;quot;,&amp;quot;id&amp;quot;:&amp;quot;span_marker&amp;quot;,&amp;quot;url&amp;quot;:&amp;quot;/docs/hub/en/span_marker&amp;quot;},{&amp;quot;title&amp;quot;:&amp;quot;SpeechBrain&amp;quot;,&amp;quot;id&amp;quot;:&amp;quot;speechbrain&amp;quot;,&amp;quot;url&amp;quot;:&amp;quot;/docs/hub/en/speechbrain&amp;quot;},{&amp;quot;title&amp;quot;:&amp;quot;Stable-Baselines3&amp;quot;,&amp;quot;id&amp;quot;:&amp;quot;stable-baselines3&amp;quot;,&amp;quot;url&amp;quot;:&amp;quot;/docs/hub/en/stable-baselines3&amp;quot;},{&amp;quot;title&amp;quot;:&amp;quot;Stanza&amp;quot;,&amp;quot;id&amp;quot;:&amp;quot;stanza&amp;quot;,&amp;quot;url&amp;quot;:&amp;quot;/docs/hub/en/stanza&amp;quot;},{&amp;quot;title&amp;quot;:&amp;quot;TensorBoard&amp;quot;,&amp;quot;id&amp;quot;:&amp;quot;tensorboard&amp;quot;,&amp;quot;url&amp;quot;:&amp;quot;/docs/hub/en/tensorboard&amp;quot;},{&amp;quot;title&amp;quot;:&amp;quot;timm&amp;quot;,&amp;quot;id&amp;quot;:&amp;quot;timm&amp;quot;,&amp;quot;url&amp;quot;:&amp;quot;/docs/hub/en/timm&amp;quot;},{&amp;quot;title&amp;quot;:&amp;quot;Transformers&amp;quot;,&amp;quot;id&amp;quot;:&amp;quot;transformers&amp;quot;,&amp;quot;url&amp;quot;:&amp;quot;/docs/hub/en/transformers&amp;quot;},{&amp;quot;title&amp;quot;:&amp;quot;Transformers.js&amp;quot;,&amp;quot;id&amp;quot;:&amp;quot;transformers-js&amp;quot;,&amp;quot;url&amp;quot;:&amp;quot;/docs/hub/en/transformers-js&amp;quot;},{&amp;quot;title&amp;quot;:&amp;quot;Unity Sentis&amp;quot;,&amp;quot;id&amp;quot;:&amp;quot;unity-sentis&amp;quot;,&amp;quot;url&amp;quot;:&amp;quot;/docs/hub/en/unity-sentis&amp;quot;}]},{&amp;quot;title&amp;quot;:&amp;quot;Model Widgets&amp;quot;,&amp;quot;isExpanded&amp;quot;:false,&amp;quot;id&amp;quot;:&amp;quot;models-widgets&amp;quot;,&amp;quot;url&amp;quot;:&amp;quot;/docs/hub/en/models-widgets&amp;quot;,&amp;quot;sections&amp;quot;:[{&amp;quot;title&amp;quot;:&amp;quot;Widget Examples&amp;quot;,&amp;quot;id&amp;quot;:&amp;quot;models-widgets-examples&amp;quot;,&amp;quot;url&amp;quot;:&amp;quot;/docs/hub/en/models-widgets-examples&amp;quot;}]},{&amp;quot;title&amp;quot;:&amp;quot;Inference API docs&amp;quot;,&amp;quot;id&amp;quot;:&amp;quot;models-inference&amp;quot;,&amp;quot;url&amp;quot;:&amp;quot;/docs/hub/en/models-inference&amp;quot;},{&amp;quot;title&amp;quot;:&amp;quot;Models Download Stats&amp;quot;,&amp;quot;id&amp;quot;:&amp;quot;models-download-stats&amp;quot;,&amp;quot;url&amp;quot;:&amp;quot;/docs/hub/en/models-download-stats&amp;quot;},{&amp;quot;title&amp;quot;:&amp;quot;Frequently Asked Questions&amp;quot;,&amp;quot;id&amp;quot;:&amp;quot;models-faq&amp;quot;,&amp;quot;url&amp;quot;:&amp;quot;/docs/hub/en/models-faq&amp;quot;},{&amp;quot;title&amp;quot;:&amp;quot;Advanced Topics&amp;quot;,&amp;quot;isExpanded&amp;quot;:false,&amp;quot;id&amp;quot;:&amp;quot;models-advanced&amp;quot;,&amp;quot;url&amp;quot;:&amp;quot;/docs/hub/en/models-advanced&amp;quot;,&amp;quot;sections&amp;quot;:[{&amp;quot;title&amp;quot;:&amp;quot;Integrate a library with the Hub&amp;quot;,&amp;quot;id&amp;quot;:&amp;quot;models-adding-libraries&amp;quot;,&amp;quot;url&amp;quot;:&amp;quot;/docs/hub/en/models-adding-libraries&amp;quot;},{&amp;quot;title&amp;quot;:&amp;quot;Tasks&amp;quot;,&amp;quot;id&amp;quot;:&amp;quot;models-tasks&amp;quot;,&amp;quot;url&amp;quot;:&amp;quot;/docs/hub/en/models-tasks&amp;quot;}]}]},{&amp;quot;title&amp;quot;:&amp;quot;Datasets&amp;quot;,&amp;quot;isExpanded&amp;quot;:true,&amp;quot;id&amp;quot;:&amp;quot;datasets&amp;quot;,&amp;quot;url&amp;quot;:&amp;quot;/docs/hub/en/datasets&amp;quot;,&amp;quot;sections&amp;quot;:[{&amp;quot;title&amp;quot;:&amp;quot;Datasets Overview&amp;quot;,&amp;quot;id&amp;quot;:&amp;quot;datasets-overview&amp;quot;,&amp;quot;url&amp;quot;:&amp;quot;/docs/hub/en/datasets-overview&amp;quot;},{&amp;quot;title&amp;quot;:&amp;quot;Dataset Cards&amp;quot;,&amp;quot;id&amp;quot;:&amp;quot;datasets-cards&amp;quot;,&amp;quot;url&amp;quot;:&amp;quot;/docs/hub/en/datasets-cards&amp;quot;},{&amp;quot;title&amp;quot;:&amp;quot;Gated Datasets&amp;quot;,&amp;quot;id&amp;quot;:&amp;quot;datasets-gated&amp;quot;,&amp;quot;url&amp;quot;:&amp;quot;/docs/hub/en/datasets-gated&amp;quot;},{&amp;quot;title&amp;quot;:&amp;quot;Uploading Datasets&amp;quot;,&amp;quot;id&amp;quot;:&amp;quot;datasets-adding&amp;quot;,&amp;quot;url&amp;quot;:&amp;quot;/docs/hub/en/datasets-adding&amp;quot;},{&amp;quot;title&amp;quot;:&amp;quot;Downloading Datasets&amp;quot;,&amp;quot;id&amp;quot;:&amp;quot;datasets-downloading&amp;quot;,&amp;quot;url&amp;quot;:&amp;quot;/docs/hub/en/datasets-downloading&amp;quot;},{&amp;quot;title&amp;quot;:&amp;quot;Integrated Libraries&amp;quot;,&amp;quot;isExpanded&amp;quot;:false,&amp;quot;id&amp;quot;:&amp;quot;datasets-libraries&amp;quot;,&amp;quot;url&amp;quot;:&amp;quot;/docs/hub/en/datasets-libraries&amp;quot;,&amp;quot;sections&amp;quot;:[{&amp;quot;title&amp;quot;:&amp;quot;Dask&amp;quot;,&amp;quot;id&amp;quot;:&amp;quot;datasets-dask&amp;quot;,&amp;quot;url&amp;quot;:&amp;quot;/docs/hub/en/datasets-dask&amp;quot;},{&amp;quot;title&amp;quot;:&amp;quot;Datasets&amp;quot;,&amp;quot;id&amp;quot;:&amp;quot;datasets-usage&amp;quot;,&amp;quot;url&amp;quot;:&amp;quot;/docs/hub/en/datasets-usage&amp;quot;},{&amp;quot;title&amp;quot;:&amp;quot;DuckDB&amp;quot;,&amp;quot;id&amp;quot;:&amp;quot;datasets-duckdb&amp;quot;,&amp;quot;url&amp;quot;:&amp;quot;/docs/hub/en/datasets-duckdb&amp;quot;},{&amp;quot;title&amp;quot;:&amp;quot;Pandas&amp;quot;,&amp;quot;id&amp;quot;:&amp;quot;datasets-pandas&amp;quot;,&amp;quot;url&amp;quot;:&amp;quot;/docs/hub/en/datasets-pandas&amp;quot;},{&amp;quot;title&amp;quot;:&amp;quot;WebDataset&amp;quot;,&amp;quot;id&amp;quot;:&amp;quot;datasets-webdataset&amp;quot;,&amp;quot;url&amp;quot;:&amp;quot;/docs/hub/en/datasets-webdataset&amp;quot;}]},{&amp;quot;title&amp;quot;:&amp;quot;Dataset Viewer&amp;quot;,&amp;quot;isExpanded&amp;quot;:false,&amp;quot;id&amp;quot;:&amp;quot;datasets-viewer&amp;quot;,&amp;quot;url&amp;quot;:&amp;quot;/docs/hub/en/datasets-viewer&amp;quot;,&amp;quot;sections&amp;quot;:[{&amp;quot;title&amp;quot;:&amp;quot;Configure the Dataset Viewer&amp;quot;,&amp;quot;id&amp;quot;:&amp;quot;datasets-viewer-configure&amp;quot;,&amp;quot;url&amp;quot;:&amp;quot;/docs/hub/en/datasets-viewer-configure&amp;quot;}]},{&amp;quot;title&amp;quot;:&amp;quot;Datasets Download Stats&amp;quot;,&amp;quot;id&amp;quot;:&amp;quot;datasets-download-stats&amp;quot;,&amp;quot;url&amp;quot;:&amp;quot;/docs/hub/en/datasets-download-stats&amp;quot;},{&amp;quot;title&amp;quot;:&amp;quot;Data files Configuration&amp;quot;,&amp;quot;isExpanded&amp;quot;:false,&amp;quot;id&amp;quot;:&amp;quot;datasets-data-files-configuration&amp;quot;,&amp;quot;url&amp;quot;:&amp;quot;/docs/hub/en/datasets-data-files-configuration&amp;quot;,&amp;quot;sections&amp;quot;:[{&amp;quot;title&amp;quot;:&amp;quot;File names and splits&amp;quot;,&amp;quot;id&amp;quot;:&amp;quot;datasets-file-names-and-splits&amp;quot;,&amp;quot;url&amp;quot;:&amp;quot;/docs/hub/en/datasets-file-names-and-splits&amp;quot;},{&amp;quot;title&amp;quot;:&amp;quot;Manual Configuration&amp;quot;,&amp;quot;id&amp;quot;:&amp;quot;datasets-manual-configuration&amp;quot;,&amp;quot;url&amp;quot;:&amp;quot;/docs/hub/en/datasets-manual-configuration&amp;quot;},{&amp;quot;title&amp;quot;:&amp;quot;Image Dataset&amp;quot;,&amp;quot;id&amp;quot;:&amp;quot;datasets-image&amp;quot;,&amp;quot;url&amp;quot;:&amp;quot;/docs/hub/en/datasets-image&amp;quot;}]}]},{&amp;quot;title&amp;quot;:&amp;quot;Spaces&amp;quot;,&amp;quot;isExpanded&amp;quot;:true,&amp;quot;id&amp;quot;:&amp;quot;spaces&amp;quot;,&amp;quot;url&amp;quot;:&amp;quot;/docs/hub/en/spaces&amp;quot;,&amp;quot;sections&amp;quot;:[{&amp;quot;title&amp;quot;:&amp;quot;Spaces Overview&amp;quot;,&amp;quot;isExpanded&amp;quot;:false,&amp;quot;id&amp;quot;:&amp;quot;spaces-overview&amp;quot;,&amp;quot;url&amp;quot;:&amp;quot;/docs/hub/en/spaces-overview&amp;quot;,&amp;quot;sections&amp;quot;:[{&amp;quot;title&amp;quot;:&amp;quot;Handling Spaces Dependencies&amp;quot;,&amp;quot;id&amp;quot;:&amp;quot;spaces-dependencies&amp;quot;,&amp;quot;url&amp;quot;:&amp;quot;/docs/hub/en/spaces-dependencies&amp;quot;},{&amp;quot;title&amp;quot;:&amp;quot;Spaces Settings&amp;quot;,&amp;quot;id&amp;quot;:&amp;quot;spaces-settings&amp;quot;,&amp;quot;url&amp;quot;:&amp;quot;/docs/hub/en/spaces-settings&amp;quot;},{&amp;quot;title&amp;quot;:&amp;quot;Using Spaces for Organization Cards&amp;quot;,&amp;quot;id&amp;quot;:&amp;quot;spaces-organization-cards&amp;quot;,&amp;quot;url&amp;quot;:&amp;quot;/docs/hub/en/spaces-organization-cards&amp;quot;}]},{&amp;quot;title&amp;quot;:&amp;quot;Spaces GPU Upgrades&amp;quot;,&amp;quot;id&amp;quot;:&amp;quot;spaces-gpus&amp;quot;,&amp;quot;url&amp;quot;:&amp;quot;/docs/hub/en/spaces-gpus&amp;quot;},{&amp;quot;title&amp;quot;:&amp;quot;Spaces Persistent Storage&amp;quot;,&amp;quot;id&amp;quot;:&amp;quot;spaces-storage&amp;quot;,&amp;quot;url&amp;quot;:&amp;quot;/docs/hub/en/spaces-storage&amp;quot;},{&amp;quot;title&amp;quot;:&amp;quot;Gradio Spaces&amp;quot;,&amp;quot;id&amp;quot;:&amp;quot;spaces-sdks-gradio&amp;quot;,&amp;quot;url&amp;quot;:&amp;quot;/docs/hub/en/spaces-sdks-gradio&amp;quot;},{&amp;quot;title&amp;quot;:&amp;quot;Streamlit Spaces&amp;quot;,&amp;quot;id&amp;quot;:&amp;quot;spaces-sdks-streamlit&amp;quot;,&amp;quot;url&amp;quot;:&amp;quot;/docs/hub/en/spaces-sdks-streamlit&amp;quot;},{&amp;quot;title&amp;quot;:&amp;quot;Static HTML Spaces&amp;quot;,&amp;quot;id&amp;quot;:&amp;quot;spaces-sdks-static&amp;quot;,&amp;quot;url&amp;quot;:&amp;quot;/docs/hub/en/spaces-sdks-static&amp;quot;},{&amp;quot;title&amp;quot;:&amp;quot;Docker Spaces&amp;quot;,&amp;quot;isExpanded&amp;quot;:false,&amp;quot;id&amp;quot;:&amp;quot;spaces-sdks-docker&amp;quot;,&amp;quot;url&amp;quot;:&amp;quot;/docs/hub/en/spaces-sdks-docker&amp;quot;,&amp;quot;sections&amp;quot;:[{&amp;quot;title&amp;quot;:&amp;quot;Your first Docker Spaces&amp;quot;,&amp;quot;id&amp;quot;:&amp;quot;spaces-sdks-docker-first-demo&amp;quot;,&amp;quot;url&amp;quot;:&amp;quot;/docs/hub/en/spaces-sdks-docker-first-demo&amp;quot;},{&amp;quot;title&amp;quot;:&amp;quot;Example Docker Spaces&amp;quot;,&amp;quot;id&amp;quot;:&amp;quot;spaces-sdks-docker-examples&amp;quot;,&amp;quot;url&amp;quot;:&amp;quot;/docs/hub/en/spaces-sdks-docker-examples&amp;quot;},{&amp;quot;title&amp;quot;:&amp;quot;Argilla on Spaces&amp;quot;,&amp;quot;id&amp;quot;:&amp;quot;spaces-sdks-docker-argilla&amp;quot;,&amp;quot;url&amp;quot;:&amp;quot;/docs/hub/en/spaces-sdks-docker-argilla&amp;quot;},{&amp;quot;title&amp;quot;:&amp;quot;Label Studio on Spaces&amp;quot;,&amp;quot;id&amp;quot;:&amp;quot;spaces-sdks-docker-label-studio&amp;quot;,&amp;quot;url&amp;quot;:&amp;quot;/docs/hub/en/spaces-sdks-docker-label-studio&amp;quot;},{&amp;quot;title&amp;quot;:&amp;quot;Aim on Spaces&amp;quot;,&amp;quot;id&amp;quot;:&amp;quot;spaces-sdks-docker-aim&amp;quot;,&amp;quot;url&amp;quot;:&amp;quot;/docs/hub/en/spaces-sdks-docker-aim&amp;quot;},{&amp;quot;title&amp;quot;:&amp;quot;Livebook on Spaces&amp;quot;,&amp;quot;id&amp;quot;:&amp;quot;spaces-sdks-docker-livebook&amp;quot;,&amp;quot;url&amp;quot;:&amp;quot;/docs/hub/en/spaces-sdks-docker-livebook&amp;quot;},{&amp;quot;title&amp;quot;:&amp;quot;Shiny on Spaces&amp;quot;,&amp;quot;id&amp;quot;:&amp;quot;spaces-sdks-docker-shiny&amp;quot;,&amp;quot;url&amp;quot;:&amp;quot;/docs/hub/en/spaces-sdks-docker-shiny&amp;quot;},{&amp;quot;title&amp;quot;:&amp;quot;ZenML on Spaces&amp;quot;,&amp;quot;id&amp;quot;:&amp;quot;spaces-sdks-docker-zenml&amp;quot;,&amp;quot;url&amp;quot;:&amp;quot;/docs/hub/en/spaces-sdks-docker-zenml&amp;quot;},{&amp;quot;title&amp;quot;:&amp;quot;Panel on Spaces&amp;quot;,&amp;quot;id&amp;quot;:&amp;quot;spaces-sdks-docker-panel&amp;quot;,&amp;quot;url&amp;quot;:&amp;quot;/docs/hub/en/spaces-sdks-docker-panel&amp;quot;},{&amp;quot;title&amp;quot;:&amp;quot;ChatUI on Spaces&amp;quot;,&amp;quot;id&amp;quot;:&amp;quot;spaces-sdks-docker-chatui&amp;quot;,&amp;quot;url&amp;quot;:&amp;quot;/docs/hub/en/spaces-sdks-docker-chatui&amp;quot;},{&amp;quot;title&amp;quot;:&amp;quot;Tabby on Spaces&amp;quot;,&amp;quot;id&amp;quot;:&amp;quot;spaces-sdks-docker-tabby&amp;quot;,&amp;quot;url&amp;quot;:&amp;quot;/docs/hub/en/spaces-sdks-docker-tabby&amp;quot;},{&amp;quot;title&amp;quot;:&amp;quot;Giskard on Spaces&amp;quot;,&amp;quot;id&amp;quot;:&amp;quot;spaces-sdks-docker-giskard&amp;quot;,&amp;quot;url&amp;quot;:&amp;quot;/docs/hub/en/spaces-sdks-docker-giskard&amp;quot;}]},{&amp;quot;title&amp;quot;:&amp;quot;Embed your Space&amp;quot;,&amp;quot;id&amp;quot;:&amp;quot;spaces-embed&amp;quot;,&amp;quot;url&amp;quot;:&amp;quot;/docs/hub/en/spaces-embed&amp;quot;},{&amp;quot;title&amp;quot;:&amp;quot;Run Spaces with Docker&amp;quot;,&amp;quot;id&amp;quot;:&amp;quot;spaces-run-with-docker&amp;quot;,&amp;quot;url&amp;quot;:&amp;quot;/docs/hub/en/spaces-run-with-docker&amp;quot;},{&amp;quot;title&amp;quot;:&amp;quot;Spaces Configuration Reference&amp;quot;,&amp;quot;id&amp;quot;:&amp;quot;spaces-config-reference&amp;quot;,&amp;quot;url&amp;quot;:&amp;quot;/docs/hub/en/spaces-config-reference&amp;quot;},{&amp;quot;title&amp;quot;:&amp;quot;Sign-In with HF button&amp;quot;,&amp;quot;id&amp;quot;:&amp;quot;spaces-oauth&amp;quot;,&amp;quot;url&amp;quot;:&amp;quot;/docs/hub/en/spaces-oauth&amp;quot;},{&amp;quot;title&amp;quot;:&amp;quot;Spaces Changelog&amp;quot;,&amp;quot;id&amp;quot;:&amp;quot;spaces-changelog&amp;quot;,&amp;quot;url&amp;quot;:&amp;quot;/docs/hub/en/spaces-changelog&amp;quot;},{&amp;quot;title&amp;quot;:&amp;quot;Advanced Topics&amp;quot;,&amp;quot;isExpanded&amp;quot;:false,&amp;quot;id&amp;quot;:&amp;quot;spaces-advanced&amp;quot;,&amp;quot;url&amp;quot;:&amp;quot;/docs/hub/en/spaces-advanced&amp;quot;,&amp;quot;sections&amp;quot;:[{&amp;quot;title&amp;quot;:&amp;quot;Using OpenCV in Spaces&amp;quot;,&amp;quot;id&amp;quot;:&amp;quot;spaces-using-opencv&amp;quot;,&amp;quot;url&amp;quot;:&amp;quot;/docs/hub/en/spaces-using-opencv&amp;quot;},{&amp;quot;title&amp;quot;:&amp;quot;More ways to create Spaces&amp;quot;,&amp;quot;id&amp;quot;:&amp;quot;spaces-more-ways-to-create&amp;quot;,&amp;quot;url&amp;quot;:&amp;quot;/docs/hub/en/spaces-more-ways-to-create&amp;quot;},{&amp;quot;title&amp;quot;:&amp;quot;Managing Spaces with Github Actions&amp;quot;,&amp;quot;id&amp;quot;:&amp;quot;spaces-github-actions&amp;quot;,&amp;quot;url&amp;quot;:&amp;quot;/docs/hub/en/spaces-github-actions&amp;quot;},{&amp;quot;title&amp;quot;:&amp;quot;Managing Spaces with CircleCI Workflows&amp;quot;,&amp;quot;id&amp;quot;:&amp;quot;spaces-circleci&amp;quot;,&amp;quot;url&amp;quot;:&amp;quot;/docs/hub/en/spaces-circleci&amp;quot;},{&amp;quot;title&amp;quot;:&amp;quot;Custom Python Spaces&amp;quot;,&amp;quot;id&amp;quot;:&amp;quot;spaces-sdks-python&amp;quot;,&amp;quot;url&amp;quot;:&amp;quot;/docs/hub/en/spaces-sdks-python&amp;quot;},{&amp;quot;title&amp;quot;:&amp;quot;How to Add a Space to ArXiv&amp;quot;,&amp;quot;id&amp;quot;:&amp;quot;spaces-add-to-arxiv&amp;quot;,&amp;quot;url&amp;quot;:&amp;quot;/docs/hub/en/spaces-add-to-arxiv&amp;quot;},{&amp;quot;title&amp;quot;:&amp;quot;Cookie limitations in Spaces&amp;quot;,&amp;quot;id&amp;quot;:&amp;quot;spaces-cookie-limitations&amp;quot;,&amp;quot;url&amp;quot;:&amp;quot;/docs/hub/en/spaces-cookie-limitations&amp;quot;}]}]},{&amp;quot;title&amp;quot;:&amp;quot;Other&amp;quot;,&amp;quot;isExpanded&amp;quot;:true,&amp;quot;id&amp;quot;:&amp;quot;other&amp;quot;,&amp;quot;url&amp;quot;:&amp;quot;/docs/hub/en/other&amp;quot;,&amp;quot;sections&amp;quot;:[{&amp;quot;title&amp;quot;:&amp;quot;Organizations&amp;quot;,&amp;quot;isExpanded&amp;quot;:false,&amp;quot;id&amp;quot;:&amp;quot;organizations&amp;quot;,&amp;quot;url&amp;quot;:&amp;quot;/docs/hub/en/organizations&amp;quot;,&amp;quot;sections&amp;quot;:[{&amp;quot;title&amp;quot;:&amp;quot;Managing Organizations&amp;quot;,&amp;quot;id&amp;quot;:&amp;quot;organizations-managing&amp;quot;,&amp;quot;url&amp;quot;:&amp;quot;/docs/hub/en/organizations-managing&amp;quot;},{&amp;quot;title&amp;quot;:&amp;quot;Organization Cards&amp;quot;,&amp;quot;id&amp;quot;:&amp;quot;organizations-cards&amp;quot;,&amp;quot;url&amp;quot;:&amp;quot;/docs/hub/en/organizations-cards&amp;quot;},{&amp;quot;title&amp;quot;:&amp;quot;Access Control in Organizations&amp;quot;,&amp;quot;id&amp;quot;:&amp;quot;organizations-security&amp;quot;,&amp;quot;url&amp;quot;:&amp;quot;/docs/hub/en/organizations-security&amp;quot;},{&amp;quot;title&amp;quot;:&amp;quot;Enterprise Hub&amp;quot;,&amp;quot;isExpanded&amp;quot;:false,&amp;quot;id&amp;quot;:&amp;quot;enterprise-hub&amp;quot;,&amp;quot;url&amp;quot;:&amp;quot;/docs/hub/en/enterprise-hub&amp;quot;,&amp;quot;sections&amp;quot;:[{&amp;quot;title&amp;quot;:&amp;quot;Single Sign-On (SSO)&amp;quot;,&amp;quot;id&amp;quot;:&amp;quot;enterprise-sso&amp;quot;,&amp;quot;url&amp;quot;:&amp;quot;/docs/hub/en/enterprise-sso&amp;quot;},{&amp;quot;title&amp;quot;:&amp;quot;Audit Logs&amp;quot;,&amp;quot;id&amp;quot;:&amp;quot;audit-logs&amp;quot;,&amp;quot;url&amp;quot;:&amp;quot;/docs/hub/en/audit-logs&amp;quot;},{&amp;quot;title&amp;quot;:&amp;quot;Storage Regions&amp;quot;,&amp;quot;id&amp;quot;:&amp;quot;storage-regions&amp;quot;,&amp;quot;url&amp;quot;:&amp;quot;/docs/hub/en/storage-regions&amp;quot;},{&amp;quot;title&amp;quot;:&amp;quot;Dataset viewer for Private datasets&amp;quot;,&amp;quot;id&amp;quot;:&amp;quot;enterprise-hub-datasets&amp;quot;,&amp;quot;url&amp;quot;:&amp;quot;/docs/hub/en/enterprise-hub-datasets&amp;quot;}]}]},{&amp;quot;title&amp;quot;:&amp;quot;Billing&amp;quot;,&amp;quot;id&amp;quot;:&amp;quot;billing&amp;quot;,&amp;quot;url&amp;quot;:&amp;quot;/docs/hub/en/billing&amp;quot;},{&amp;quot;title&amp;quot;:&amp;quot;Security&amp;quot;,&amp;quot;isExpanded&amp;quot;:false,&amp;quot;id&amp;quot;:&amp;quot;security&amp;quot;,&amp;quot;url&amp;quot;:&amp;quot;/docs/hub/en/security&amp;quot;,&amp;quot;sections&amp;quot;:[{&amp;quot;title&amp;quot;:&amp;quot;User Access Tokens&amp;quot;,&amp;quot;id&amp;quot;:&amp;quot;security-tokens&amp;quot;,&amp;quot;url&amp;quot;:&amp;quot;/docs/hub/en/security-tokens&amp;quot;},{&amp;quot;title&amp;quot;:&amp;quot;Two-Factor Authentication&amp;quot;,&amp;quot;id&amp;quot;:&amp;quot;security-2fa&amp;quot;,&amp;quot;url&amp;quot;:&amp;quot;/docs/hub/en/security-2fa&amp;quot;},{&amp;quot;title&amp;quot;:&amp;quot;Git over SSH&amp;quot;,&amp;quot;id&amp;quot;:&amp;quot;security-git-ssh&amp;quot;,&amp;quot;url&amp;quot;:&amp;quot;/docs/hub/en/security-git-ssh&amp;quot;},{&amp;quot;title&amp;quot;:&amp;quot;Signing Commits with GPG&amp;quot;,&amp;quot;id&amp;quot;:&amp;quot;security-gpg&amp;quot;,&amp;quot;url&amp;quot;:&amp;quot;/docs/hub/en/security-gpg&amp;quot;},{&amp;quot;title&amp;quot;:&amp;quot;Single Sign-On (SSO)&amp;quot;,&amp;quot;isExpanded&amp;quot;:false,&amp;quot;id&amp;quot;:&amp;quot;security-sso&amp;quot;,&amp;quot;url&amp;quot;:&amp;quot;/docs/hub/en/security-sso&amp;quot;,&amp;quot;sections&amp;quot;:[{&amp;quot;title&amp;quot;:&amp;quot;How to configure OIDC with Okta in the Hub&amp;quot;,&amp;quot;id&amp;quot;:&amp;quot;security-sso-okta-oidc&amp;quot;,&amp;quot;url&amp;quot;:&amp;quot;/docs/hub/en/security-sso-okta-oidc&amp;quot;},{&amp;quot;title&amp;quot;:&amp;quot;How to configure SAML with Okta in the Hub&amp;quot;,&amp;quot;id&amp;quot;:&amp;quot;security-sso-okta-saml&amp;quot;,&amp;quot;url&amp;quot;:&amp;quot;/docs/hub/en/security-sso-okta-saml&amp;quot;},{&amp;quot;title&amp;quot;:&amp;quot;How to configure SAML with Azure in the Hub&amp;quot;,&amp;quot;id&amp;quot;:&amp;quot;security-sso-azure-saml&amp;quot;,&amp;quot;url&amp;quot;:&amp;quot;/docs/hub/en/security-sso-azure-saml&amp;quot;},{&amp;quot;title&amp;quot;:&amp;quot;How to configure OIDC with Azure in the Hub&amp;quot;,&amp;quot;id&amp;quot;:&amp;quot;security-sso-azure-oidc&amp;quot;,&amp;quot;url&amp;quot;:&amp;quot;/docs/hub/en/security-sso-azure-oidc&amp;quot;}]},{&amp;quot;title&amp;quot;:&amp;quot;Malware Scanning&amp;quot;,&amp;quot;id&amp;quot;:&amp;quot;security-malware&amp;quot;,&amp;quot;url&amp;quot;:&amp;quot;/docs/hub/en/security-malware&amp;quot;},{&amp;quot;title&amp;quot;:&amp;quot;Pickle Scanning&amp;quot;,&amp;quot;id&amp;quot;:&amp;quot;security-pickle&amp;quot;,&amp;quot;url&amp;quot;:&amp;quot;/docs/hub/en/security-pickle&amp;quot;},{&amp;quot;title&amp;quot;:&amp;quot;Secrets Scanning&amp;quot;,&amp;quot;id&amp;quot;:&amp;quot;security-secrets&amp;quot;,&amp;quot;url&amp;quot;:&amp;quot;/docs/hub/en/security-secrets&amp;quot;}]},{&amp;quot;title&amp;quot;:&amp;quot;Moderation&amp;quot;,&amp;quot;id&amp;quot;:&amp;quot;moderation&amp;quot;,&amp;quot;url&amp;quot;:&amp;quot;/docs/hub/en/moderation&amp;quot;},{&amp;quot;title&amp;quot;:&amp;quot;Paper Pages&amp;quot;,&amp;quot;id&amp;quot;:&amp;quot;paper-pages&amp;quot;,&amp;quot;url&amp;quot;:&amp;quot;/docs/hub/en/paper-pages&amp;quot;},{&amp;quot;title&amp;quot;:&amp;quot;Search&amp;quot;,&amp;quot;id&amp;quot;:&amp;quot;search&amp;quot;,&amp;quot;url&amp;quot;:&amp;quot;/docs/hub/en/search&amp;quot;},{&amp;quot;title&amp;quot;:&amp;quot;Digital Object Identifier (DOI)&amp;quot;,&amp;quot;id&amp;quot;:&amp;quot;doi&amp;quot;,&amp;quot;url&amp;quot;:&amp;quot;/docs/hub/en/doi&amp;quot;},{&amp;quot;title&amp;quot;:&amp;quot;Hub API Endpoints&amp;quot;,&amp;quot;id&amp;quot;:&amp;quot;api&amp;quot;,&amp;quot;url&amp;quot;:&amp;quot;/docs/hub/en/api&amp;quot;},{&amp;quot;title&amp;quot;:&amp;quot;Sign-In with HF&amp;quot;,&amp;quot;id&amp;quot;:&amp;quot;oauth&amp;quot;,&amp;quot;url&amp;quot;:&amp;quot;/docs/hub/en/oauth&amp;quot;}]}],&amp;quot;chapterId&amp;quot;:&amp;quot;model-card-annotated&amp;quot;,&amp;quot;docType&amp;quot;:&amp;quot;docs&amp;quot;,&amp;quot;isLoggedIn&amp;quot;:true,&amp;quot;lang&amp;quot;:&amp;quot;en&amp;quot;,&amp;quot;langs&amp;quot;:[&amp;quot;en&amp;quot;],&amp;quot;library&amp;quot;:&amp;quot;hub&amp;quot;,&amp;quot;theme&amp;quot;:&amp;quot;light&amp;quot;,&amp;quot;version&amp;quot;:&amp;quot;main&amp;quot;,&amp;quot;versions&amp;quot;:[{&amp;quot;version&amp;quot;:&amp;quot;main&amp;quot;}],&amp;quot;title&amp;quot;:&amp;quot;Annotated Model Card Template&amp;quot;}&quot; data-target=&quot;SideMenu&quot;&gt;</text:p>
+<text:p text:style-name="P59"><text:s text:c="4" />&lt;div class=&quot;flex flex-1 cursor-pointer flex-col justify-center self-stretch pl-6&quot;&gt;&lt;p class=&quot;text-sm text-gray-400 first-letter:capitalize&quot;&gt;Hub documentation</text:p>
+<text:p text:style-name="P60"><text:s text:c="8" />&lt;/p&gt;</text:p>
+<text:p text:style-name="P61"><text:s text:c="8" />&lt;div class=&quot;flex items-center&quot;&gt;&lt;p class=&quot;font-semibold&quot;&gt;Annotated Model Card Template&lt;/p&gt;</text:p>
+<text:p text:style-name="P62"><text:s text:c="12" />&lt;svg class=&quot;text-xl false&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot; xmlns:xlink=&quot;http://www.w3.org/1999/xlink&quot; aria-hidden=&quot;true&quot; role=&quot;img&quot; width=&quot;1em&quot; height=&quot;1em&quot; preserveAspectRatio=&quot;xMidYMid meet&quot; viewBox=&quot;0 0 24 24&quot;&gt;&lt;path d=&quot;M16.293 9.293L12 13.586L7.707 9.293l-1.414 1.414L12 16.414l5.707-5.707z&quot; fill=&quot;currentColor&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/div&gt;&lt;/div&gt;</text:p>
+<text:p text:style-name="P63"><text:s text:c="4" />&lt;button class=&quot;hover:shadow-alternate group ml-auto mr-6 inline-flex flex-none cursor-pointer rounded-xl border p-2&quot;&gt;&lt;svg class=&quot;text-gray-500 group-hover:text-gray-700&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot; xmlns:xlink=&quot;http://www.w3.org/1999/xlink&quot; aria-hidden=&quot;true&quot; focusable=&quot;false&quot; role=&quot;img&quot; width=&quot;1em&quot; height=&quot;1em&quot; preserveAspectRatio=&quot;xMidYMid meet&quot; viewBox=&quot;0 0 32 32&quot;&gt;&lt;path d=&quot;M30 28.59L22.45 21A11 11 0 1 0 21 22.45L28.59 30zM5 14a9 9 0 1 1 9 9a9 9 0 0 1-9-9z&quot; fill=&quot;currentColor&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/button&gt;&lt;/div&gt;</text:p>
+<text:p text:style-name="P64">&lt;div class=&quot;hidden h-32 flex-col justify-between border-b border-r bg-white bg-gradient-to-r p-4 lg:flex from-yellow-50 to-white dark:from-gray-900 dark:to-gray-950&quot;&gt;&lt;div class=&quot;group relative flex min-w-[50%] items-center self-start text-lg font-bold leading-tight first-letter:capitalize&quot;&gt;&lt;div class=&quot;mr-1.5 h-1.5 w-1.5 rounded-full bg-yellow-500 flex-none&quot;&gt;&lt;/div&gt;</text:p>
+<text:p text:style-name="P65"><text:s text:c="8" />&lt;h1&gt;Hub&lt;/h1&gt;</text:p>
+<text:p text:style-name="P66"><text:s text:c="8" />&lt;svg class=&quot;opacity-50 ml-0.5 flex-none group-hover:opacity-100&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot; xmlns:xlink=&quot;http://www.w3.org/1999/xlink&quot; aria-hidden=&quot;true&quot; role=&quot;img&quot; width=&quot;1em&quot; height=&quot;1em&quot; preserveAspectRatio=&quot;xMidYMid meet&quot; viewBox=&quot;0 0 24 24&quot;&gt;&lt;path d=&quot;M16.293 9.293L12 13.586L7.707 9.293l-1.414 1.414L12 16.414l5.707-5.707z&quot; fill=&quot;currentColor&quot;&gt;&lt;/path&gt;&lt;/svg&gt;</text:p>
+<text:p text:style-name="P67"></text:p>
+<text:p text:style-name="P68"><text:s text:c="8" />&lt;select class=&quot;absolute inset-0 border-none text-base opacity-0 outline-none&quot;&gt;&lt;option value=&quot;/docs&quot;&gt;🏡 View all docs&lt;/option&gt;&lt;option value=&quot;/docs/optimum-neuron&quot; &gt;AWS Trainium &amp;amp; Inferentia&lt;/option&gt;&lt;option value=&quot;/docs/accelerate&quot; &gt;Accelerate&lt;/option&gt;&lt;option value=&quot;/docs/sagemaker&quot; &gt;Amazon SageMaker&lt;/option&gt;&lt;option value=&quot;/docs/autotrain&quot; &gt;AutoTrain&lt;/option&gt;&lt;option value=&quot;/docs/competitions&quot; &gt;Competitions&lt;/option&gt;&lt;option value=&quot;/docs/datasets&quot; &gt;Datasets&lt;/option&gt;&lt;option value=&quot;/docs/datasets-server&quot; &gt;Datasets-server&lt;/option&gt;&lt;option value=&quot;/docs/diffusers&quot; &gt;Diffusers&lt;/option&gt;&lt;option value=&quot;/docs/evaluate&quot; &gt;Evaluate&lt;/option&gt;&lt;option value=&quot;https://www.gradio.app/docs/&quot; &gt;Gradio&lt;/option&gt;&lt;option value=&quot;/docs/hub&quot; selected&gt;Hub&lt;/option&gt;&lt;option value=&quot;/docs/huggingface_hub&quot; &gt;Hub Python Library&lt;/option&gt;&lt;option value=&quot;/docs/huggingface.js&quot; &gt;Huggingface.js&lt;/option&gt;&lt;option value=&quot;/docs/api-inference&quot; &gt;Inference API (serverless)&lt;/option&gt;&lt;option value=&quot;/docs/inference-endpoints&quot; &gt;Inference Endpoints (dedicated)&lt;/option&gt;&lt;option value=&quot;/docs/optimum&quot; &gt;Optimum&lt;/option&gt;&lt;option value=&quot;/docs/peft&quot; &gt;PEFT&lt;/option&gt;&lt;option value=&quot;/docs/safetensors&quot; &gt;Safetensors&lt;/option&gt;&lt;option value=&quot;/docs/trl&quot; &gt;TRL&lt;/option&gt;&lt;option value=&quot;/tasks&quot; &gt;Tasks&lt;/option&gt;&lt;option value=&quot;/docs/text-embeddings-inference&quot; &gt;Text Embeddings Inference&lt;/option&gt;&lt;option value=&quot;/docs/text-generation-inference&quot; &gt;Text Generation Inference&lt;/option&gt;&lt;option value=&quot;/docs/tokenizers&quot; &gt;Tokenizers&lt;/option&gt;&lt;option value=&quot;/docs/transformers&quot; &gt;Transformers&lt;/option&gt;&lt;option value=&quot;/docs/transformers.js&quot; &gt;Transformers.js&lt;/option&gt;&lt;option value=&quot;/docs/timm&quot; &gt;timm&lt;/option&gt;&lt;/select&gt;&lt;/div&gt;</text:p>
+<text:p text:style-name="P69"></text:p>
+<text:p text:style-name="P70"><text:s text:c="4" />&lt;button class=&quot;shadow-alternate flex w-full items-center rounded-full border bg-white px-2 py-1 text-left text-sm text-gray-400 ring-indigo-200 hover:bg-indigo-50 hover:ring-2 dark:border-gray-700 dark:ring-yellow-600 dark:hover:bg-gray-900 dark:hover:text-yellow-500&quot;&gt;&lt;svg class=&quot;flex-none mr-1.5&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot; xmlns:xlink=&quot;http://www.w3.org/1999/xlink&quot; aria-hidden=&quot;true&quot; focusable=&quot;false&quot; role=&quot;img&quot; width=&quot;1em&quot; height=&quot;1em&quot; preserveAspectRatio=&quot;xMidYMid meet&quot; viewBox=&quot;0 0 32 32&quot;&gt;&lt;path d=&quot;M30 28.59L22.45 21A11 11 0 1 0 21 22.45L28.59 30zM5 14a9 9 0 1 1 9 9a9 9 0 0 1-9-9z&quot; fill=&quot;currentColor&quot;&gt;&lt;/path&gt;&lt;/svg&gt;</text:p>
+<text:p text:style-name="P71"><text:s text:c="8" />&lt;div&gt;Search documentation&lt;/div&gt;</text:p>
+<text:p text:style-name="P72"><text:s text:c="8" />&lt;/button&gt;</text:p>
+<text:p text:style-name="P73"><text:s text:c="4" />&lt;div class=&quot;flex items-center&quot;&gt;</text:p>
+<text:p text:style-name="P74"><text:s text:c="8" /></text:p>
+<text:p text:style-name="P75"><text:s text:c="8" />&lt;select class=&quot;form-input mr-1 rounded border-gray-200 p-1 text-xs dark:!text-gray-400 !w-12 !mt-0 !border&quot;&gt;&lt;option value=&quot;en&quot; selected&gt;EN&lt;/option&gt;&lt;/select&gt;</text:p>
+<text:p text:style-name="P76"><text:s text:c="8" /></text:p>
+<text:p text:style-name="P77">&lt;button class=&quot;rounded-full border border-gray-100 py-1 pl-2 pr-0.5 flex items-center text-sm text-gray-500 bg-white hover:bg-yellow-50 hover:border-yellow-200 dark:hover:bg-gray-800 dark:hover:border-gray-950 &quot; type=&quot;button&quot;&gt;</text:p>
+<text:p text:style-name="P78"><text:s text:c="4" />&lt;svg class=&quot;mr-1.5 text-yellow-500&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot; xmlns:xlink=&quot;http://www.w3.org/1999/xlink&quot; aria-hidden=&quot;true&quot; focusable=&quot;false&quot; role=&quot;img&quot; width=&quot;1em&quot; height=&quot;1em&quot; preserveAspectRatio=&quot;xMidYMid meet&quot; viewBox=&quot;0 0 24 24&quot; fill=&quot;currentColor&quot;&gt;&lt;path d=&quot;M6.05 4.14l-.39-.39a.993.993 0 0 0-1.4 0l-.01.01a.984.984 0 0 0 0 1.4l.39.39c.39.39 1.01.39 1.4 0l.01-.01a.984.984 0 0 0 0-1.4zM3.01 10.5H1.99c-.55 0-.99.44-.99.99v.01c0 .55.44.99.99.99H3c.56.01 1-.43 1-.98v-.01c0-.56-.44-1-.99-1zm9-9.95H12c-.56 0-1 .44-1 .99v.96c0 .55.44.99.99.99H12c.56.01 1-.43 1-.98v-.97c0-.55-.44-.99-.99-.99zm7.74 3.21c-.39-.39-1.02-.39-1.41-.01l-.39.39a.984.984 0 0 0 0 1.4l.01.01c.39.39 1.02.39 1.4 0l.39-.39a.984.984 0 0 0 0-1.4zm-1.81 15.1l.39.39a.996.996 0 1 0 1.41-1.41l-.39-.39a.993.993 0 0 0-1.4 0c-.4.4-.4 1.02-.01 1.41zM20 11.49v.01c0 .55.44.99.99.99H22c.55 0 .99-.44.99-.99v-.01c0-.55-.44-.99-.99-.99h-1.01c-.55 0-.99.44-.99.99zM12 5.5c-3.31 0-6 2.69-6 6s2.69 6 6 6s6-2.69 6-6s-2.69-6-6-6zm-.01 16.95H12c.55 0 .99-.44.99-.99v-.96c0-.55-.44-.99-.99-.99h-.01c-.55 0-.99.44-.99.99v.96c0 .55.44.99.99.99zm-7.74-3.21c.39.39 1.02.39 1.41 0l.39-.39a.993.993 0 0 0 0-1.4l-.01-.01a.996.996 0 0 0-1.41 0l-.39.39c-.38.4-.38 1.02.01 1.41z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;</text:p>
+<text:p text:style-name="P79"><text:s text:c="8" /></text:p>
+<text:p text:style-name="P80"><text:s text:c="4" />&lt;/button&gt;</text:p>
+<text:p text:style-name="P81"></text:p>
+<text:p text:style-name="P82"></text:p>
+<text:p text:style-name="P83">&lt;/div&gt;</text:p>
+<text:p text:style-name="P84"><text:s text:c="8" />&lt;a href=&quot;https://github.com/huggingface/hub-docs&quot; class=&quot;group ml-auto text-xs text-gray-500 hover:text-gray-700 hover:underline dark:hover:text-gray-300&quot;&gt;&lt;svg class=&quot;inline-block text-gray-500 group-hover:text-gray-700 dark:group-hover:text-gray-300 mr-1.5 -mt-1 w-4 h-4&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot; xmlns:xlink=&quot;http://www.w3.org/1999/xlink&quot; aria-hidden=&quot;true&quot; focusable=&quot;false&quot; role=&quot;img&quot; width=&quot;1.03em&quot; height=&quot;1em&quot; preserveAspectRatio=&quot;xMidYMid meet&quot; viewBox=&quot;0 0 256 250&quot;&gt;&lt;path d=&quot;M128.001 0C57.317 0 0 57.307 0 128.001c0 56.554 36.676 104.535 87.535 121.46c6.397 1.185 8.746-2.777 8.746-6.158c0-3.052-.12-13.135-.174-23.83c-35.61 7.742-43.124-15.103-43.124-15.103c-5.823-14.795-14.213-18.73-14.213-18.73c-11.613-7.944.876-7.78.876-7.78c12.853.902 19.621 13.19 19.621 13.19c11.417 19.568 29.945 13.911 37.249 10.64c1.149-8.272 4.466-13.92 8.127-17.116c-28.431-3.236-58.318-14.212-58.318-63.258c0-13.975 5-25.394 13.188-34.358c-1.329-3.224-5.71-16.242 1.24-33.874c0 0 10.749-3.44 35.21 13.121c10.21-2.836 21.16-4.258 32.038-4.307c10.878.049 21.837 1.47 32.066 4.307c24.431-16.56 35.165-13.12 35.165-13.12c6.967 17.63 2.584 30.65 1.255 33.873c8.207 8.964 13.173 20.383 13.173 34.358c0 49.163-29.944 59.988-58.447 63.157c4.591 3.972 8.682 11.762 8.682 23.704c0 17.126-.148 30.91-.148 35.126c0 3.407 2.304 7.398 8.792 6.14C219.37 232.5 256 184.537 256 128.002C256 57.307 198.691 0 128.001 0zm-80.06 182.34c-.282.636-1.283.827-2.194.39c-.929-.417-1.45-1.284-1.15-1.922c.276-.655 1.279-.838 2.205-.399c.93.418 1.46 1.293 1.139 1.931zm6.296 5.618c-.61.566-1.804.303-2.614-.591c-.837-.892-.994-2.086-.375-2.66c.63-.566 1.787-.301 2.626.591c.838.903 1 2.088.363 2.66zm4.32 7.188c-.785.545-2.067.034-2.86-1.104c-.784-1.138-.784-2.503.017-3.05c.795-.547 2.058-.055 2.861 1.075c.782 1.157.782 2.522-.019 3.08zm7.304 8.325c-.701.774-2.196.566-3.29-.49c-1.119-1.032-1.43-2.496-.726-3.27c.71-.776 2.213-.558 3.315.49c1.11 1.03 1.45 2.505.701 3.27zm9.442 2.81c-.31 1.003-1.75 1.459-3.199 1.033c-1.448-.439-2.395-1.613-2.103-2.626c.301-1.01 1.747-1.484 3.207-1.028c1.446.436 2.396 1.602 2.095 2.622zm10.744 1.193c.036 1.055-1.193 1.93-2.715 1.95c-1.53.034-2.769-.82-2.786-1.86c0-1.065 1.202-1.932 2.733-1.958c1.522-.03 2.768.818 2.768 1.868zm10.555-.405c.182 1.03-.875 2.088-2.387 2.37c-1.485.271-2.861-.365-3.05-1.386c-.184-1.056.893-2.114 2.376-2.387c1.514-.263 2.868.356 3.061 1.403z&quot; fill=&quot;currentColor&quot;&gt;&lt;/path&gt;&lt;/svg&gt;</text:p>
+<text:p text:style-name="P85"><text:s text:c="12" />&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;</text:p>
+<text:p text:style-name="P86"></text:p>
+<text:p text:style-name="P87">&lt;nav class=&quot;top-32 hidden lg:flex absolute bottom-0 left-0 w-full flex-col overflow-y-auto border-r px-4 pb-16 pt-3 text-[0.95rem] lg:w-[270px] 2xl:w-[300px]&quot;&gt;</text:p>
+<text:p text:style-name="P88"><text:s text:c="4" />&lt;a class=&quot;flex transform items-center py-1 pl-2 pr-2 text-gray-500 first:mt-1 last:mb-4 hover:translate-x-px hover:text-black dark:hover:text-gray-300 mb-2 ml-0 &quot; href=&quot;/docs/hub/en/index&quot; id=&quot;index&quot;&gt;</text:p>
+<text:p text:style-name="P89"><text:s text:c="8" />&lt;!-- HTML_TAG_START --&gt;🤗 Hugging Face Hub&lt;!-- HTML_TAG_END --&gt;</text:p>
+<text:p text:style-name="P90"><text:s text:c="4" />&lt;/a&gt;</text:p>
+<text:p text:style-name="P91">&lt;a class=&quot;flex transform items-center py-1 pl-2 pr-2 text-gray-500 first:mt-1 last:mb-4 hover:translate-x-px hover:text-black dark:hover:text-gray-300 <text:s text:c="1" />ml-0 &quot; href=&quot;/docs/hub/en/repositories&quot; id=&quot;repositories&quot;&gt;&lt;svg class=&quot;mr-1 text-orange-500&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot; xmlns:xlink=&quot;http://www.w3.org/1999/xlink&quot; aria-hidden=&quot;true&quot; focusable=&quot;false&quot; role=&quot;img&quot; width=&quot;1em&quot; height=&quot;1em&quot; preserveAspectRatio=&quot;xMidYMid meet&quot; viewBox=&quot;0 0 24 24&quot;&gt;&lt;path fill=&quot;currentColor&quot; d=&quot;M2.6 10.59L8.38 4.8l1.69 1.7c-.24.85.15 1.78.93 2.23v5.54c-.6.34-1 .99-1 1.73a2 2 0 0 0 2 2a2 2 0 0 0 2-2c0-.74-.4-1.39-1-1.73V9.41l2.07 2.09c-.07.15-.07.32-.07.5a2 2 0 0 0 2 2a2 2 0 0 0 2-2a2 2 0 0 0-2-2c-.18 0-.35 0-.5.07L13.93 7.5a1.98 1.98 0 0 0-1.15-2.34c-.43-.16-.88-.2-1.28-.09L9.8 3.38l.79-.78c.78-.79 2.04-.79 2.82 0l7.99 7.99c.79.78.79 2.04 0 2.82l-7.99 7.99c-.78.79-2.04.79-2.82 0L2.6 13.41c-.79-.78-.79-2.04 0-2.82Z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;</text:p>
+<text:p text:style-name="P92"><text:s text:c="8" />&lt;!-- HTML_TAG_START --&gt;Repositories&lt;!-- HTML_TAG_END --&gt;</text:p>
+<text:p text:style-name="P93"><text:s text:c="4" />&lt;/a&gt;</text:p>
+<text:p text:style-name="P94">&lt;div class=&quot;flex flex-col&quot;&gt;&lt;a class=&quot;flex transform items-center py-1 pl-2 pr-2 text-gray-500 first:mt-1 last:mb-4 hover:translate-x-px hover:text-black dark:hover:text-gray-300 <text:s text:c="1" />ml-2 &quot; href=&quot;/docs/hub/en/repositories-getting-started&quot; id=&quot;repositories-getting-started&quot;&gt;</text:p>
+<text:p text:style-name="P95"><text:s text:c="8" />&lt;!-- HTML_TAG_START --&gt;Getting Started with Repositories&lt;!-- HTML_TAG_END --&gt;</text:p>
+<text:p text:style-name="P96"><text:s text:c="4" />&lt;/a&gt;</text:p>
+<text:p text:style-name="P97">&lt;a class=&quot;flex transform items-center py-1 pl-2 pr-2 text-gray-500 first:mt-1 last:mb-4 hover:translate-x-px hover:text-black dark:hover:text-gray-300 <text:s text:c="1" />ml-2 &quot; href=&quot;/docs/hub/en/repositories-settings&quot; id=&quot;repositories-settings&quot;&gt;</text:p>
+<text:p text:style-name="P98"><text:s text:c="8" />&lt;!-- HTML_TAG_START --&gt;Repository Settings&lt;!-- HTML_TAG_END --&gt;</text:p>
+<text:p text:style-name="P99"><text:s text:c="4" />&lt;/a&gt;</text:p>
+<text:p text:style-name="P100">&lt;a class=&quot;flex transform items-center py-1 pl-2 pr-2 text-gray-500 first:mt-1 last:mb-4 hover:translate-x-px hover:text-black dark:hover:text-gray-300 <text:s text:c="1" />ml-2 &quot; href=&quot;/docs/hub/en/repositories-pull-requests-discussions&quot; id=&quot;repositories-pull-requests-discussions&quot;&gt;</text:p>
+<text:p text:style-name="P101"><text:s text:c="8" />&lt;!-- HTML_TAG_START --&gt;Pull Requests &amp; Discussions&lt;!-- HTML_TAG_END --&gt;</text:p>
+<text:p text:style-name="P102"><text:s text:c="4" />&lt;/a&gt;</text:p>
+<text:p text:style-name="P103">&lt;a class=&quot;flex transform items-center py-1 pl-2 pr-2 text-gray-500 first:mt-1 last:mb-4 hover:translate-x-px hover:text-black dark:hover:text-gray-300 <text:s text:c="1" />ml-2 &quot; href=&quot;/docs/hub/en/notifications&quot; id=&quot;notifications&quot;&gt;</text:p>
+<text:p text:style-name="P104"><text:s text:c="8" />&lt;!-- HTML_TAG_START --&gt;Notifications&lt;!-- HTML_TAG_END --&gt;</text:p>
+<text:p text:style-name="P105"><text:s text:c="4" />&lt;/a&gt;</text:p>
+<text:p text:style-name="P106">&lt;a class=&quot;flex transform items-center py-1 pl-2 pr-2 text-gray-500 first:mt-1 last:mb-4 hover:translate-x-px hover:text-black dark:hover:text-gray-300 <text:s text:c="1" />ml-2 &quot; href=&quot;/docs/hub/en/collections&quot; id=&quot;collections&quot;&gt;</text:p>
+<text:p text:style-name="P107"><text:s text:c="8" />&lt;!-- HTML_TAG_START --&gt;Collections&lt;!-- HTML_TAG_END --&gt;</text:p>
+<text:p text:style-name="P108"><text:s text:c="4" />&lt;/a&gt;</text:p>
+<text:p text:style-name="P109">&lt;a class=&quot;flex transform items-center py-1 pl-2 pr-2 text-gray-500 first:mt-1 last:mb-4 hover:translate-x-px hover:text-black dark:hover:text-gray-300 <text:s text:c="1" />ml-2 after:absolute after:right-4 after:text-gray-500 hover:after:content-['▶']&quot; href=&quot;/docs/hub/en/webhooks&quot; id=&quot;webhooks&quot;&gt;</text:p>
+<text:p text:style-name="P110"><text:s text:c="8" />&lt;!-- HTML_TAG_START --&gt;Webhooks&lt;!-- HTML_TAG_END --&gt;</text:p>
+<text:p text:style-name="P111"><text:s text:c="4" />&lt;/a&gt;</text:p>
+<text:p text:style-name="P112">&lt;a class=&quot;flex transform items-center py-1 pl-2 pr-2 text-gray-500 first:mt-1 last:mb-4 hover:translate-x-px hover:text-black dark:hover:text-gray-300 <text:s text:c="1" />ml-2 &quot; href=&quot;/docs/hub/en/repositories-recommendations&quot; id=&quot;repositories-recommendations&quot;&gt;</text:p>
+<text:p text:style-name="P113"><text:s text:c="8" />&lt;!-- HTML_TAG_START --&gt;Repository size recommendations&lt;!-- HTML_TAG_END --&gt;</text:p>
+<text:p text:style-name="P114"><text:s text:c="4" />&lt;/a&gt;</text:p>
+<text:p text:style-name="P115">&lt;a class=&quot;flex transform items-center py-1 pl-2 pr-2 text-gray-500 first:mt-1 last:mb-4 hover:translate-x-px hover:text-black dark:hover:text-gray-300 <text:s text:c="1" />ml-2 &quot; href=&quot;/docs/hub/en/repositories-next-steps&quot; id=&quot;repositories-next-steps&quot;&gt;</text:p>
+<text:p text:style-name="P116"><text:s text:c="8" />&lt;!-- HTML_TAG_START --&gt;Next Steps&lt;!-- HTML_TAG_END --&gt;</text:p>
+<text:p text:style-name="P117"><text:s text:c="4" />&lt;/a&gt;</text:p>
+<text:p text:style-name="P118">&lt;a class=&quot;flex transform items-center py-1 pl-2 pr-2 text-gray-500 first:mt-1 last:mb-4 hover:translate-x-px hover:text-black dark:hover:text-gray-300 <text:s text:c="1" />ml-2 &quot; href=&quot;/docs/hub/en/repositories-licenses&quot; id=&quot;repositories-licenses&quot;&gt;</text:p>
+<text:p text:style-name="P119"><text:s text:c="8" />&lt;!-- HTML_TAG_START --&gt;Licenses&lt;!-- HTML_TAG_END --&gt;</text:p>
+<text:p text:style-name="P120"><text:s text:c="4" />&lt;/a&gt;</text:p>
+<text:p text:style-name="P121"></text:p>
+<text:p text:style-name="P122"><text:s text:c="4" />&lt;/div&gt;&lt;a class=&quot;flex transform items-center py-1 pl-2 pr-2 text-gray-500 first:mt-1 last:mb-4 hover:translate-x-px hover:text-black dark:hover:text-gray-300 <text:s text:c="1" />ml-0 &quot; href=&quot;/docs/hub/en/models&quot; id=&quot;models&quot;&gt;&lt;svg class=&quot;mr-1 text-indigo-500&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot; xmlns:xlink=&quot;http://www.w3.org/1999/xlink&quot; aria-hidden=&quot;true&quot; focusable=&quot;false&quot; role=&quot;img&quot; width=&quot;1em&quot; height=&quot;1em&quot; preserveAspectRatio=&quot;xMidYMid meet&quot; viewBox=&quot;0 0 24 24&quot;&gt;&lt;path class=&quot;uim-quaternary&quot; d=&quot;M20.23 7.24L12 12L3.77 7.24a1.98 1.98 0 0 1 .7-.71L11 2.76c.62-.35 1.38-.35 2 0l6.53 3.77c.29.173.531.418.7.71z&quot; opacity=&quot;.25&quot; fill=&quot;currentColor&quot;&gt;&lt;/path&gt;&lt;path class=&quot;uim-tertiary&quot; d=&quot;M12 12v9.5a2.09 2.09 0 0 1-.91-.21L4.5 17.48a2.003 2.003 0 0 1-1-1.73v-7.5a2.06 2.06 0 0 1 .27-1.01L12 12z&quot; opacity=&quot;.5&quot; fill=&quot;currentColor&quot;&gt;&lt;/path&gt;&lt;path class=&quot;uim-primary&quot; d=&quot;M20.5 8.25v7.5a2.003 2.003 0 0 1-1 1.73l-6.62 3.82c-.275.13-.576.198-.88.2V12l8.23-4.76c.175.308.268.656.27 1.01z&quot; fill=&quot;currentColor&quot;&gt;&lt;/path&gt;&lt;/svg&gt;</text:p>
+<text:p text:style-name="P123"><text:s text:c="8" />&lt;!-- HTML_TAG_START --&gt;Models&lt;!-- HTML_TAG_END --&gt;</text:p>
+<text:p text:style-name="P124"><text:s text:c="4" />&lt;/a&gt;</text:p>
+<text:p text:style-name="P125">&lt;div class=&quot;flex flex-col&quot;&gt;&lt;a class=&quot;flex transform items-center py-1 pl-2 pr-2 text-gray-500 first:mt-1 last:mb-4 hover:translate-x-px hover:text-black dark:hover:text-gray-300 <text:s text:c="1" />ml-2 &quot; href=&quot;/docs/hub/en/models-the-hub&quot; id=&quot;models-the-hub&quot;&gt;</text:p>
+<text:p text:style-name="P126"><text:s text:c="8" />&lt;!-- HTML_TAG_START --&gt;The Model Hub&lt;!-- HTML_TAG_END --&gt;</text:p>
+<text:p text:style-name="P127"><text:s text:c="4" />&lt;/a&gt;</text:p>
+<text:p text:style-name="P128">&lt;a class=&quot;flex transform items-center py-1 pl-2 pr-2 text-gray-500 first:mt-1 last:mb-4 hover:translate-x-px hover:text-black dark:hover:text-gray-300 <text:s text:c="1" />ml-2 &quot; href=&quot;/docs/hub/en/model-cards&quot; id=&quot;model-cards&quot;&gt;</text:p>
+<text:p text:style-name="P129"><text:s text:c="8" />&lt;!-- HTML_TAG_START --&gt;Model Cards&lt;!-- HTML_TAG_END --&gt;</text:p>
+<text:p text:style-name="P130"><text:s text:c="4" />&lt;/a&gt;</text:p>
+<text:p text:style-name="P131">&lt;div class=&quot;flex flex-col&quot;&gt;&lt;a class=&quot;flex items-center rounded-xl bg-gradient-to-br from-black to-gray-900 py-1 pl-2 pr-2 text-white transition-colors first:mt-1 last:mb-4 dark:from-gray-800 dark:to-gray-900 ml-4 &quot; href=&quot;/docs/hub/en/model-card-annotated&quot; id=&quot;model-card-annotated&quot;&gt;</text:p>
+<text:p text:style-name="P132"><text:s text:c="8" />&lt;!-- HTML_TAG_START --&gt;Annotated Model Card&lt;!-- HTML_TAG_END --&gt;</text:p>
+<text:p text:style-name="P133"><text:s text:c="4" />&lt;/a&gt;</text:p>
+<text:p text:style-name="P134">&lt;a class=&quot;flex transform items-center py-1 pl-2 pr-2 text-gray-500 first:mt-1 last:mb-4 hover:translate-x-px hover:text-black dark:hover:text-gray-300 <text:s text:c="1" />ml-4 &quot; href=&quot;/docs/hub/en/model-cards-co2&quot; id=&quot;model-cards-co2&quot;&gt;</text:p>
+<text:p text:style-name="P135"><text:s text:c="8" />&lt;!-- HTML_TAG_START --&gt;Carbon Emissions&lt;!-- HTML_TAG_END --&gt;</text:p>
+<text:p text:style-name="P136"><text:s text:c="4" />&lt;/a&gt;</text:p>
+<text:p text:style-name="P137">&lt;a class=&quot;flex transform items-center py-1 pl-2 pr-2 text-gray-500 first:mt-1 last:mb-4 hover:translate-x-px hover:text-black dark:hover:text-gray-300 <text:s text:c="1" />ml-4 &quot; href=&quot;/docs/hub/en/model-card-guidebook&quot; id=&quot;model-card-guidebook&quot;&gt;</text:p>
+<text:p text:style-name="P138"><text:s text:c="8" />&lt;!-- HTML_TAG_START --&gt;Model Card Guidebook&lt;!-- HTML_TAG_END --&gt;</text:p>
+<text:p text:style-name="P139"><text:s text:c="4" />&lt;/a&gt;</text:p>
+<text:p text:style-name="P140">&lt;a class=&quot;flex transform items-center py-1 pl-2 pr-2 text-gray-500 first:mt-1 last:mb-4 hover:translate-x-px hover:text-black dark:hover:text-gray-300 <text:s text:c="1" />ml-4 &quot; href=&quot;/docs/hub/en/model-card-landscape-analysis&quot; id=&quot;model-card-landscape-analysis&quot;&gt;</text:p>
+<text:p text:style-name="P141"><text:s text:c="8" />&lt;!-- HTML_TAG_START --&gt;Landscape Analysis&lt;!-- HTML_TAG_END --&gt;</text:p>
+<text:p text:style-name="P142"><text:s text:c="4" />&lt;/a&gt;</text:p>
+<text:p text:style-name="P143">&lt;a class=&quot;flex transform items-center py-1 pl-2 pr-2 text-gray-500 first:mt-1 last:mb-4 hover:translate-x-px hover:text-black dark:hover:text-gray-300 <text:s text:c="1" />ml-4 &quot; href=&quot;/docs/hub/en/model-cards-components&quot; id=&quot;model-cards-components&quot;&gt;</text:p>
+<text:p text:style-name="P144"><text:s text:c="8" />&lt;!-- HTML_TAG_START --&gt;Card Components&lt;!-- HTML_TAG_END --&gt;</text:p>
+<text:p text:style-name="P145"><text:s text:c="4" />&lt;/a&gt;</text:p>
+<text:p text:style-name="P146"></text:p>
+<text:p text:style-name="P147"><text:s text:c="4" />&lt;/div&gt;&lt;a class=&quot;flex transform items-center py-1 pl-2 pr-2 text-gray-500 first:mt-1 last:mb-4 hover:translate-x-px hover:text-black dark:hover:text-gray-300 <text:s text:c="1" />ml-2 &quot; href=&quot;/docs/hub/en/models-gated&quot; id=&quot;models-gated&quot;&gt;</text:p>
+<text:p text:style-name="P148"><text:s text:c="8" />&lt;!-- HTML_TAG_START --&gt;Gated Models&lt;!-- HTML_TAG_END --&gt;</text:p>
+<text:p text:style-name="P149"><text:s text:c="4" />&lt;/a&gt;</text:p>
+<text:p text:style-name="P150">&lt;a class=&quot;flex transform items-center py-1 pl-2 pr-2 text-gray-500 first:mt-1 last:mb-4 hover:translate-x-px hover:text-black dark:hover:text-gray-300 <text:s text:c="1" />ml-2 &quot; href=&quot;/docs/hub/en/models-uploading&quot; id=&quot;models-uploading&quot;&gt;</text:p>
+<text:p text:style-name="P151"><text:s text:c="8" />&lt;!-- HTML_TAG_START --&gt;Uploading Models&lt;!-- HTML_TAG_END --&gt;</text:p>
+<text:p text:style-name="P152"><text:s text:c="4" />&lt;/a&gt;</text:p>
+<text:p text:style-name="P153">&lt;a class=&quot;flex transform items-center py-1 pl-2 pr-2 text-gray-500 first:mt-1 last:mb-4 hover:translate-x-px hover:text-black dark:hover:text-gray-300 <text:s text:c="1" />ml-2 &quot; href=&quot;/docs/hub/en/models-downloading&quot; id=&quot;models-downloading&quot;&gt;</text:p>
+<text:p text:style-name="P154"><text:s text:c="8" />&lt;!-- HTML_TAG_START --&gt;Downloading Models&lt;!-- HTML_TAG_END --&gt;</text:p>
+<text:p text:style-name="P155"><text:s text:c="4" />&lt;/a&gt;</text:p>
+<text:p text:style-name="P156">&lt;a class=&quot;flex transform items-center py-1 pl-2 pr-2 text-gray-500 first:mt-1 last:mb-4 hover:translate-x-px hover:text-black dark:hover:text-gray-300 <text:s text:c="1" />ml-2 after:absolute after:right-4 after:text-gray-500 hover:after:content-['▶']&quot; href=&quot;/docs/hub/en/models-libraries&quot; id=&quot;models-libraries&quot;&gt;</text:p>
+<text:p text:style-name="P157"><text:s text:c="8" />&lt;!-- HTML_TAG_START --&gt;Integrated Libraries&lt;!-- HTML_TAG_END --&gt;</text:p>
+<text:p text:style-name="P158"><text:s text:c="4" />&lt;/a&gt;</text:p>
+<text:p text:style-name="P159">&lt;a class=&quot;flex transform items-center py-1 pl-2 pr-2 text-gray-500 first:mt-1 last:mb-4 hover:translate-x-px hover:text-black dark:hover:text-gray-300 <text:s text:c="1" />ml-2 after:absolute after:right-4 after:text-gray-500 hover:after:content-['▶']&quot; href=&quot;/docs/hub/en/models-widgets&quot; id=&quot;models-widgets&quot;&gt;</text:p>
+<text:p text:style-name="P160"><text:s text:c="8" />&lt;!-- HTML_TAG_START --&gt;Model Widgets&lt;!-- HTML_TAG_END --&gt;</text:p>
+<text:p text:style-name="P161"><text:s text:c="4" />&lt;/a&gt;</text:p>
+<text:p text:style-name="P162">&lt;a class=&quot;flex transform items-center py-1 pl-2 pr-2 text-gray-500 first:mt-1 last:mb-4 hover:translate-x-px hover:text-black dark:hover:text-gray-300 <text:s text:c="1" />ml-2 &quot; href=&quot;/docs/hub/en/models-inference&quot; id=&quot;models-inference&quot;&gt;</text:p>
+<text:p text:style-name="P163"><text:s text:c="8" />&lt;!-- HTML_TAG_START --&gt;Inference API docs&lt;!-- HTML_TAG_END --&gt;</text:p>
+<text:p text:style-name="P164"><text:s text:c="4" />&lt;/a&gt;</text:p>
+<text:p text:style-name="P165">&lt;a class=&quot;flex transform items-center py-1 pl-2 pr-2 text-gray-500 first:mt-1 last:mb-4 hover:translate-x-px hover:text-black dark:hover:text-gray-300 <text:s text:c="1" />ml-2 &quot; href=&quot;/docs/hub/en/models-download-stats&quot; id=&quot;models-download-stats&quot;&gt;</text:p>
+<text:p text:style-name="P166"><text:s text:c="8" />&lt;!-- HTML_TAG_START --&gt;Models Download Stats&lt;!-- HTML_TAG_END --&gt;</text:p>
+<text:p text:style-name="P167"><text:s text:c="4" />&lt;/a&gt;</text:p>
+<text:p text:style-name="P168">&lt;a class=&quot;flex transform items-center py-1 pl-2 pr-2 text-gray-500 first:mt-1 last:mb-4 hover:translate-x-px hover:text-black dark:hover:text-gray-300 <text:s text:c="1" />ml-2 &quot; href=&quot;/docs/hub/en/models-faq&quot; id=&quot;models-faq&quot;&gt;</text:p>
+<text:p text:style-name="P169"><text:s text:c="8" />&lt;!-- HTML_TAG_START --&gt;Frequently Asked Questions&lt;!-- HTML_TAG_END --&gt;</text:p>
+<text:p text:style-name="P170"><text:s text:c="4" />&lt;/a&gt;</text:p>
+<text:p text:style-name="P171">&lt;a class=&quot;flex transform items-center py-1 pl-2 pr-2 text-gray-500 first:mt-1 last:mb-4 hover:translate-x-px hover:text-black dark:hover:text-gray-300 <text:s text:c="1" />ml-2 after:absolute after:right-4 after:text-gray-500 hover:after:content-['▶']&quot; href=&quot;/docs/hub/en/models-advanced&quot; id=&quot;models-advanced&quot;&gt;</text:p>
+<text:p text:style-name="P172"><text:s text:c="8" />&lt;!-- HTML_TAG_START --&gt;Advanced Topics&lt;!-- HTML_TAG_END --&gt;</text:p>
+<text:p text:style-name="P173"><text:s text:c="4" />&lt;/a&gt;</text:p>
+<text:p text:style-name="P174"></text:p>
+<text:p text:style-name="P175"><text:s text:c="4" />&lt;/div&gt;&lt;a class=&quot;flex transform items-center py-1 pl-2 pr-2 text-gray-500 first:mt-1 last:mb-4 hover:translate-x-px hover:text-black dark:hover:text-gray-300 <text:s text:c="1" />ml-0 &quot; href=&quot;/docs/hub/en/datasets&quot; id=&quot;datasets&quot;&gt;&lt;svg class=&quot;mr-1 text-red-500&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot; xmlns:xlink=&quot;http://www.w3.org/1999/xlink&quot; aria-hidden=&quot;true&quot; focusable=&quot;false&quot; role=&quot;img&quot; width=&quot;1em&quot; height=&quot;1em&quot; preserveAspectRatio=&quot;xMidYMid meet&quot; viewBox=&quot;0 0 25 25&quot;&gt;&lt;ellipse cx=&quot;12.5&quot; cy=&quot;5&quot; fill=&quot;currentColor&quot; fill-opacity=&quot;0.25&quot; rx=&quot;7.5&quot; ry=&quot;2&quot;&gt;&lt;/ellipse&gt;&lt;path d=&quot;M12.5 15C16.6421 15 20 14.1046 20 13V20C20 21.1046 16.6421 22 12.5 22C8.35786 22 5 21.1046 5 20V13C5 14.1046 8.35786 15 12.5 15Z&quot; fill=&quot;currentColor&quot; opacity=&quot;0.5&quot;&gt;&lt;/path&gt;&lt;path d=&quot;M12.5 7C16.6421 7 20 6.10457 20 5V11.5C20 12.6046 16.6421 13.5 12.5 13.5C8.35786 13.5 5 12.6046 5 11.5V5C5 6.10457 8.35786 7 12.5 7Z&quot; fill=&quot;currentColor&quot; opacity=&quot;0.5&quot;&gt;&lt;/path&gt;&lt;path d=&quot;M5.23628 12C5.08204 12.1598 5 12.8273 5 13C5 14.1046 8.35786 15 12.5 15C16.6421 15 20 14.1046 20 13C20 12.8273 19.918 12.1598 19.7637 12C18.9311 12.8626 15.9947 13.5 12.5 13.5C9.0053 13.5 6.06886 12.8626 5.23628 12Z&quot; fill=&quot;currentColor&quot;&gt;&lt;/path&gt;&lt;/svg&gt;</text:p>
+<text:p text:style-name="P176"><text:s text:c="8" />&lt;!-- HTML_TAG_START --&gt;Datasets&lt;!-- HTML_TAG_END --&gt;</text:p>
+<text:p text:style-name="P177"><text:s text:c="4" />&lt;/a&gt;</text:p>
+<text:p text:style-name="P178">&lt;div class=&quot;flex flex-col&quot;&gt;&lt;a class=&quot;flex transform items-center py-1 pl-2 pr-2 text-gray-500 first:mt-1 last:mb-4 hover:translate-x-px hover:text-black dark:hover:text-gray-300 <text:s text:c="1" />ml-2 &quot; href=&quot;/docs/hub/en/datasets-overview&quot; id=&quot;datasets-overview&quot;&gt;</text:p>
+<text:p text:style-name="P179"><text:s text:c="8" />&lt;!-- HTML_TAG_START --&gt;Datasets Overview&lt;!-- HTML_TAG_END --&gt;</text:p>
+<text:p text:style-name="P180"><text:s text:c="4" />&lt;/a&gt;</text:p>
+<text:p text:style-name="P181">&lt;a class=&quot;flex transform items-center py-1 pl-2 pr-2 text-gray-500 first:mt-1 last:mb-4 hover:translate-x-px hover:text-black dark:hover:text-gray-300 <text:s text:c="1" />ml-2 &quot; href=&quot;/docs/hub/en/datasets-cards&quot; id=&quot;datasets-cards&quot;&gt;</text:p>
+<text:p text:style-name="P182"><text:s text:c="8" />&lt;!-- HTML_TAG_START --&gt;Dataset Cards&lt;!-- HTML_TAG_END --&gt;</text:p>
+<text:p text:style-name="P183"><text:s text:c="4" />&lt;/a&gt;</text:p>
+<text:p text:style-name="P184">&lt;a class=&quot;flex transform items-center py-1 pl-2 pr-2 text-gray-500 first:mt-1 last:mb-4 hover:translate-x-px hover:text-black dark:hover:text-gray-300 <text:s text:c="1" />ml-2 &quot; href=&quot;/docs/hub/en/datasets-gated&quot; id=&quot;datasets-gated&quot;&gt;</text:p>
+<text:p text:style-name="P185"><text:s text:c="8" />&lt;!-- HTML_TAG_START --&gt;Gated Datasets&lt;!-- HTML_TAG_END --&gt;</text:p>
+<text:p text:style-name="P186"><text:s text:c="4" />&lt;/a&gt;</text:p>
+<text:p text:style-name="P187">&lt;a class=&quot;flex transform items-center py-1 pl-2 pr-2 text-gray-500 first:mt-1 last:mb-4 hover:translate-x-px hover:text-black dark:hover:text-gray-300 <text:s text:c="1" />ml-2 &quot; href=&quot;/docs/hub/en/datasets-adding&quot; id=&quot;datasets-adding&quot;&gt;</text:p>
+<text:p text:style-name="P188"><text:s text:c="8" />&lt;!-- HTML_TAG_START --&gt;Uploading Datasets&lt;!-- HTML_TAG_END --&gt;</text:p>
+<text:p text:style-name="P189"><text:s text:c="4" />&lt;/a&gt;</text:p>
+<text:p text:style-name="P190">&lt;a class=&quot;flex transform items-center py-1 pl-2 pr-2 text-gray-500 first:mt-1 last:mb-4 hover:translate-x-px hover:text-black dark:hover:text-gray-300 <text:s text:c="1" />ml-2 &quot; href=&quot;/docs/hub/en/datasets-downloading&quot; id=&quot;datasets-downloading&quot;&gt;</text:p>
+<text:p text:style-name="P191"><text:s text:c="8" />&lt;!-- HTML_TAG_START --&gt;Downloading Datasets&lt;!-- HTML_TAG_END --&gt;</text:p>
+<text:p text:style-name="P192"><text:s text:c="4" />&lt;/a&gt;</text:p>
+<text:p text:style-name="P193">&lt;a class=&quot;flex transform items-center py-1 pl-2 pr-2 text-gray-500 first:mt-1 last:mb-4 hover:translate-x-px hover:text-black dark:hover:text-gray-300 <text:s text:c="1" />ml-2 after:absolute after:right-4 after:text-gray-500 hover:after:content-['▶']&quot; href=&quot;/docs/hub/en/datasets-libraries&quot; id=&quot;datasets-libraries&quot;&gt;</text:p>
+<text:p text:style-name="P194"><text:s text:c="8" />&lt;!-- HTML_TAG_START --&gt;Integrated Libraries&lt;!-- HTML_TAG_END --&gt;</text:p>
+<text:p text:style-name="P195"><text:s text:c="4" />&lt;/a&gt;</text:p>
+<text:p text:style-name="P196">&lt;a class=&quot;flex transform items-center py-1 pl-2 pr-2 text-gray-500 first:mt-1 last:mb-4 hover:translate-x-px hover:text-black dark:hover:text-gray-300 <text:s text:c="1" />ml-2 after:absolute after:right-4 after:text-gray-500 hover:after:content-['▶']&quot; href=&quot;/docs/hub/en/datasets-viewer&quot; id=&quot;datasets-viewer&quot;&gt;</text:p>
+<text:p text:style-name="P197"><text:s text:c="8" />&lt;!-- HTML_TAG_START --&gt;Dataset Viewer&lt;!-- HTML_TAG_END --&gt;</text:p>
+<text:p text:style-name="P198"><text:s text:c="4" />&lt;/a&gt;</text:p>
+<text:p text:style-name="P199">&lt;a class=&quot;flex transform items-center py-1 pl-2 pr-2 text-gray-500 first:mt-1 last:mb-4 hover:translate-x-px hover:text-black dark:hover:text-gray-300 <text:s text:c="1" />ml-2 &quot; href=&quot;/docs/hub/en/datasets-download-stats&quot; id=&quot;datasets-download-stats&quot;&gt;</text:p>
+<text:p text:style-name="P200"><text:s text:c="8" />&lt;!-- HTML_TAG_START --&gt;Datasets Download Stats&lt;!-- HTML_TAG_END --&gt;</text:p>
+<text:p text:style-name="P201"><text:s text:c="4" />&lt;/a&gt;</text:p>
+<text:p text:style-name="P202">&lt;a class=&quot;flex transform items-center py-1 pl-2 pr-2 text-gray-500 first:mt-1 last:mb-4 hover:translate-x-px hover:text-black dark:hover:text-gray-300 <text:s text:c="1" />ml-2 after:absolute after:right-4 after:text-gray-500 hover:after:content-['▶']&quot; href=&quot;/docs/hub/en/datasets-data-files-configuration&quot; id=&quot;datasets-data-files-configuration&quot;&gt;</text:p>
+<text:p text:style-name="P203"><text:s text:c="8" />&lt;!-- HTML_TAG_START --&gt;Data files Configuration&lt;!-- HTML_TAG_END --&gt;</text:p>
+<text:p text:style-name="P204"><text:s text:c="4" />&lt;/a&gt;</text:p>
+<text:p text:style-name="P205"></text:p>
+<text:p text:style-name="P206"><text:s text:c="4" />&lt;/div&gt;&lt;a class=&quot;flex transform items-center py-1 pl-2 pr-2 text-gray-500 first:mt-1 last:mb-4 hover:translate-x-px hover:text-black dark:hover:text-gray-300 <text:s text:c="1" />ml-0 &quot; href=&quot;/docs/hub/en/spaces&quot; id=&quot;spaces&quot;&gt;&lt;svg class=&quot;mr-1 text-blue-500&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot; xmlns:xlink=&quot;http://www.w3.org/1999/xlink&quot; aria-hidden=&quot;true&quot; focusable=&quot;false&quot; role=&quot;img&quot; width=&quot;1em&quot; height=&quot;1em&quot; viewBox=&quot;0 0 25 25&quot;&gt;&lt;path opacity=&quot;.5&quot; d=&quot;M6.016 14.674v4.31h4.31v-4.31h-4.31ZM14.674 14.674v4.31h4.31v-4.31h-4.31ZM6.016 6.016v4.31h4.31v-4.31h-4.31Z&quot; fill=&quot;currentColor&quot;&gt;&lt;/path&gt;&lt;path opacity=&quot;.75&quot; fill-rule=&quot;evenodd&quot; clip-rule=&quot;evenodd&quot; d=&quot;M3 4.914C3 3.857 3.857 3 4.914 3h6.514c.884 0 1.628.6 1.848 1.414a5.171 5.171 0 0 1 7.31 7.31c.815.22 1.414.964 1.414 1.848v6.514A1.914 1.914 0 0 1 20.086 22H4.914A1.914 1.914 0 0 1 3 20.086V4.914Zm3.016 1.102v4.31h4.31v-4.31h-4.31Zm0 12.968v-4.31h4.31v4.31h-4.31Zm8.658 0v-4.31h4.31v4.31h-4.31Zm0-10.813a2.155 2.155 0 1 1 4.31 0 2.155 2.155 0 0 1-4.31 0Z&quot; fill=&quot;currentColor&quot;&gt;&lt;/path&gt;&lt;path opacity=&quot;.25&quot; d=&quot;M16.829 6.016a2.155 2.155 0 1 0 0 4.31 2.155 2.155 0 0 0 0-4.31Z&quot; fill=&quot;currentColor&quot;&gt;&lt;/path&gt;&lt;/svg&gt;</text:p>
+<text:p text:style-name="P207"><text:s text:c="8" />&lt;!-- HTML_TAG_START --&gt;Spaces&lt;!-- HTML_TAG_END --&gt;</text:p>
+<text:p text:style-name="P208"><text:s text:c="4" />&lt;/a&gt;</text:p>
+<text:p text:style-name="P209">&lt;div class=&quot;flex flex-col&quot;&gt;&lt;a class=&quot;flex transform items-center py-1 pl-2 pr-2 text-gray-500 first:mt-1 last:mb-4 hover:translate-x-px hover:text-black dark:hover:text-gray-300 <text:s text:c="1" />ml-2 after:absolute after:right-4 after:text-gray-500 hover:after:content-['▶']&quot; href=&quot;/docs/hub/en/spaces-overview&quot; id=&quot;spaces-overview&quot;&gt;</text:p>
+<text:p text:style-name="P210"><text:s text:c="8" />&lt;!-- HTML_TAG_START --&gt;Spaces Overview&lt;!-- HTML_TAG_END --&gt;</text:p>
+<text:p text:style-name="P211"><text:s text:c="4" />&lt;/a&gt;</text:p>
+<text:p text:style-name="P212">&lt;a class=&quot;flex transform items-center py-1 pl-2 pr-2 text-gray-500 first:mt-1 last:mb-4 hover:translate-x-px hover:text-black dark:hover:text-gray-300 <text:s text:c="1" />ml-2 &quot; href=&quot;/docs/hub/en/spaces-gpus&quot; id=&quot;spaces-gpus&quot;&gt;</text:p>
+<text:p text:style-name="P213"><text:s text:c="8" />&lt;!-- HTML_TAG_START --&gt;Spaces GPU Upgrades&lt;!-- HTML_TAG_END --&gt;</text:p>
+<text:p text:style-name="P214"><text:s text:c="4" />&lt;/a&gt;</text:p>
+<text:p text:style-name="P215">&lt;a class=&quot;flex transform items-center py-1 pl-2 pr-2 text-gray-500 first:mt-1 last:mb-4 hover:translate-x-px hover:text-black dark:hover:text-gray-300 <text:s text:c="1" />ml-2 &quot; href=&quot;/docs/hub/en/spaces-storage&quot; id=&quot;spaces-storage&quot;&gt;</text:p>
+<text:p text:style-name="P216"><text:s text:c="8" />&lt;!-- HTML_TAG_START --&gt;Spaces Persistent Storage&lt;!-- HTML_TAG_END --&gt;</text:p>
+<text:p text:style-name="P217"><text:s text:c="4" />&lt;/a&gt;</text:p>
+<text:p text:style-name="P218">&lt;a class=&quot;flex transform items-center py-1 pl-2 pr-2 text-gray-500 first:mt-1 last:mb-4 hover:translate-x-px hover:text-black dark:hover:text-gray-300 <text:s text:c="1" />ml-2 &quot; href=&quot;/docs/hub/en/spaces-sdks-gradio&quot; id=&quot;spaces-sdks-gradio&quot;&gt;</text:p>
+<text:p text:style-name="P219"><text:s text:c="8" />&lt;!-- HTML_TAG_START --&gt;Gradio Spaces&lt;!-- HTML_TAG_END --&gt;</text:p>
+<text:p text:style-name="P220"><text:s text:c="4" />&lt;/a&gt;</text:p>
+<text:p text:style-name="P221">&lt;a class=&quot;flex transform items-center py-1 pl-2 pr-2 text-gray-500 first:mt-1 last:mb-4 hover:translate-x-px hover:text-black dark:hover:text-gray-300 <text:s text:c="1" />ml-2 &quot; href=&quot;/docs/hub/en/spaces-sdks-streamlit&quot; id=&quot;spaces-sdks-streamlit&quot;&gt;</text:p>
+<text:p text:style-name="P222"><text:s text:c="8" />&lt;!-- HTML_TAG_START --&gt;Streamlit Spaces&lt;!-- HTML_TAG_END --&gt;</text:p>
+<text:p text:style-name="P223"><text:s text:c="4" />&lt;/a&gt;</text:p>
+<text:p text:style-name="P224">&lt;a class=&quot;flex transform items-center py-1 pl-2 pr-2 text-gray-500 first:mt-1 last:mb-4 hover:translate-x-px hover:text-black dark:hover:text-gray-300 <text:s text:c="1" />ml-2 &quot; href=&quot;/docs/hub/en/spaces-sdks-static&quot; id=&quot;spaces-sdks-static&quot;&gt;</text:p>
+<text:p text:style-name="P225"><text:s text:c="8" />&lt;!-- HTML_TAG_START --&gt;Static HTML Spaces&lt;!-- HTML_TAG_END --&gt;</text:p>
+<text:p text:style-name="P226"><text:s text:c="4" />&lt;/a&gt;</text:p>
+<text:p text:style-name="P227">&lt;a class=&quot;flex transform items-center py-1 pl-2 pr-2 text-gray-500 first:mt-1 last:mb-4 hover:translate-x-px hover:text-black dark:hover:text-gray-300 <text:s text:c="1" />ml-2 after:absolute after:right-4 after:text-gray-500 hover:after:content-['▶']&quot; href=&quot;/docs/hub/en/spaces-sdks-docker&quot; id=&quot;spaces-sdks-docker&quot;&gt;</text:p>
+<text:p text:style-name="P228"><text:s text:c="8" />&lt;!-- HTML_TAG_START --&gt;Docker Spaces&lt;!-- HTML_TAG_END --&gt;</text:p>
+<text:p text:style-name="P229"><text:s text:c="4" />&lt;/a&gt;</text:p>
+<text:p text:style-name="P230">&lt;a class=&quot;flex transform items-center py-1 pl-2 pr-2 text-gray-500 first:mt-1 last:mb-4 hover:translate-x-px hover:text-black dark:hover:text-gray-300 <text:s text:c="1" />ml-2 &quot; href=&quot;/docs/hub/en/spaces-embed&quot; id=&quot;spaces-embed&quot;&gt;</text:p>
+<text:p text:style-name="P231"><text:s text:c="8" />&lt;!-- HTML_TAG_START --&gt;Embed your Space&lt;!-- HTML_TAG_END --&gt;</text:p>
+<text:p text:style-name="P232"><text:s text:c="4" />&lt;/a&gt;</text:p>
+<text:p text:style-name="P233">&lt;a class=&quot;flex transform items-center py-1 pl-2 pr-2 text-gray-500 first:mt-1 last:mb-4 hover:translate-x-px hover:text-black dark:hover:text-gray-300 <text:s text:c="1" />ml-2 &quot; href=&quot;/docs/hub/en/spaces-run-with-docker&quot; id=&quot;spaces-run-with-docker&quot;&gt;</text:p>
+<text:p text:style-name="P234"><text:s text:c="8" />&lt;!-- HTML_TAG_START --&gt;Run Spaces with Docker&lt;!-- HTML_TAG_END --&gt;</text:p>
+<text:p text:style-name="P235"><text:s text:c="4" />&lt;/a&gt;</text:p>
+<text:p text:style-name="P236">&lt;a class=&quot;flex transform items-center py-1 pl-2 pr-2 text-gray-500 first:mt-1 last:mb-4 hover:translate-x-px hover:text-black dark:hover:text-gray-300 <text:s text:c="1" />ml-2 &quot; href=&quot;/docs/hub/en/spaces-config-reference&quot; id=&quot;spaces-config-reference&quot;&gt;</text:p>
+<text:p text:style-name="P237"><text:s text:c="8" />&lt;!-- HTML_TAG_START --&gt;Spaces Configuration Reference&lt;!-- HTML_TAG_END --&gt;</text:p>
+<text:p text:style-name="P238"><text:s text:c="4" />&lt;/a&gt;</text:p>
+<text:p text:style-name="P239">&lt;a class=&quot;flex transform items-center py-1 pl-2 pr-2 text-gray-500 first:mt-1 last:mb-4 hover:translate-x-px hover:text-black dark:hover:text-gray-300 <text:s text:c="1" />ml-2 &quot; href=&quot;/docs/hub/en/spaces-oauth&quot; id=&quot;spaces-oauth&quot;&gt;</text:p>
+<text:p text:style-name="P240"><text:s text:c="8" />&lt;!-- HTML_TAG_START --&gt;Sign-In with HF button&lt;!-- HTML_TAG_END --&gt;</text:p>
+<text:p text:style-name="P241"><text:s text:c="4" />&lt;/a&gt;</text:p>
+<text:p text:style-name="P242">&lt;a class=&quot;flex transform items-center py-1 pl-2 pr-2 text-gray-500 first:mt-1 last:mb-4 hover:translate-x-px hover:text-black dark:hover:text-gray-300 <text:s text:c="1" />ml-2 &quot; href=&quot;/docs/hub/en/spaces-changelog&quot; id=&quot;spaces-changelog&quot;&gt;</text:p>
+<text:p text:style-name="P243"><text:s text:c="8" />&lt;!-- HTML_TAG_START --&gt;Spaces Changelog&lt;!-- HTML_TAG_END --&gt;</text:p>
+<text:p text:style-name="P244"><text:s text:c="4" />&lt;/a&gt;</text:p>
+<text:p text:style-name="P245">&lt;a class=&quot;flex transform items-center py-1 pl-2 pr-2 text-gray-500 first:mt-1 last:mb-4 hover:translate-x-px hover:text-black dark:hover:text-gray-300 <text:s text:c="1" />ml-2 after:absolute after:right-4 after:text-gray-500 hover:after:content-['▶']&quot; href=&quot;/docs/hub/en/spaces-advanced&quot; id=&quot;spaces-advanced&quot;&gt;</text:p>
+<text:p text:style-name="P246"><text:s text:c="8" />&lt;!-- HTML_TAG_START --&gt;Advanced Topics&lt;!-- HTML_TAG_END --&gt;</text:p>
+<text:p text:style-name="P247"><text:s text:c="4" />&lt;/a&gt;</text:p>
+<text:p text:style-name="P248"></text:p>
+<text:p text:style-name="P249"><text:s text:c="4" />&lt;/div&gt;&lt;a class=&quot;flex transform items-center py-1 pl-2 pr-2 text-gray-500 first:mt-1 last:mb-4 hover:translate-x-px hover:text-black dark:hover:text-gray-300 <text:s text:c="1" />ml-0 &quot; href=&quot;/docs/hub/en/other&quot; id=&quot;other&quot;&gt;&lt;svg class=&quot;mr-1 text-green-500&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot; xmlns:xlink=&quot;http://www.w3.org/1999/xlink&quot; aria-hidden=&quot;true&quot; role=&quot;img&quot; width=&quot;1em&quot; height=&quot;1em&quot; preserveAspectRatio=&quot;xMidYMid meet&quot; viewBox=&quot;0 0 24 24&quot; fill=&quot;currentColor&quot;&gt;&lt;path d=&quot;M8.892 21.854a6.25 6.25 0 0 1-4.42-10.67l7.955-7.955a4.5 4.5 0 0 1 6.364 6.364l-6.895 6.894a2.816 2.816 0 0 1-3.89 0a2.75 2.75 0 0 1 .002-3.888l5.126-5.127a1 1 0 1 1 1.414 1.414l-5.126 5.127a.75.75 0 0 0 0 1.06a.768.768 0 0 0 1.06 0l6.895-6.894a2.503 2.503 0 0 0 0-3.535a2.56 2.56 0 0 0-3.536 0l-7.955 7.955a4.25 4.25 0 1 0 6.01 6.01l6.188-6.187a1 1 0 1 1 1.414 1.414l-6.187 6.186a6.206 6.206 0 0 1-4.42 1.832z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;</text:p>
+<text:p text:style-name="P250"><text:s text:c="8" />&lt;!-- HTML_TAG_START --&gt;Other&lt;!-- HTML_TAG_END --&gt;</text:p>
+<text:p text:style-name="P251"><text:s text:c="4" />&lt;/a&gt;</text:p>
+<text:p text:style-name="P252">&lt;div class=&quot;flex flex-col&quot;&gt;&lt;a class=&quot;flex transform items-center py-1 pl-2 pr-2 text-gray-500 first:mt-1 last:mb-4 hover:translate-x-px hover:text-black dark:hover:text-gray-300 <text:s text:c="1" />ml-2 after:absolute after:right-4 after:text-gray-500 hover:after:content-['▶']&quot; href=&quot;/docs/hub/en/organizations&quot; id=&quot;organizations&quot;&gt;</text:p>
+<text:p text:style-name="P253"><text:s text:c="8" />&lt;!-- HTML_TAG_START --&gt;Organizations&lt;!-- HTML_TAG_END --&gt;</text:p>
+<text:p text:style-name="P254"><text:s text:c="4" />&lt;/a&gt;</text:p>
+<text:p text:style-name="P255">&lt;a class=&quot;flex transform items-center py-1 pl-2 pr-2 text-gray-500 first:mt-1 last:mb-4 hover:translate-x-px hover:text-black dark:hover:text-gray-300 <text:s text:c="1" />ml-2 &quot; href=&quot;/docs/hub/en/billing&quot; id=&quot;billing&quot;&gt;</text:p>
+<text:p text:style-name="P256"><text:s text:c="8" />&lt;!-- HTML_TAG_START --&gt;Billing&lt;!-- HTML_TAG_END --&gt;</text:p>
+<text:p text:style-name="P257"><text:s text:c="4" />&lt;/a&gt;</text:p>
+<text:p text:style-name="P258">&lt;a class=&quot;flex transform items-center py-1 pl-2 pr-2 text-gray-500 first:mt-1 last:mb-4 hover:translate-x-px hover:text-black dark:hover:text-gray-300 <text:s text:c="1" />ml-2 after:absolute after:right-4 after:text-gray-500 hover:after:content-['▶']&quot; href=&quot;/docs/hub/en/security&quot; id=&quot;security&quot;&gt;</text:p>
+<text:p text:style-name="P259"><text:s text:c="8" />&lt;!-- HTML_TAG_START --&gt;Security&lt;!-- HTML_TAG_END --&gt;</text:p>
+<text:p text:style-name="P260"><text:s text:c="4" />&lt;/a&gt;</text:p>
+<text:p text:style-name="P261">&lt;a class=&quot;flex transform items-center py-1 pl-2 pr-2 text-gray-500 first:mt-1 last:mb-4 hover:translate-x-px hover:text-black dark:hover:text-gray-300 <text:s text:c="1" />ml-2 &quot; href=&quot;/docs/hub/en/moderation&quot; id=&quot;moderation&quot;&gt;</text:p>
+<text:p text:style-name="P262"><text:s text:c="8" />&lt;!-- HTML_TAG_START --&gt;Moderation&lt;!-- HTML_TAG_END --&gt;</text:p>
+<text:p text:style-name="P263"><text:s text:c="4" />&lt;/a&gt;</text:p>
+<text:p text:style-name="P264">&lt;a class=&quot;flex transform items-center py-1 pl-2 pr-2 text-gray-500 first:mt-1 last:mb-4 hover:translate-x-px hover:text-black dark:hover:text-gray-300 <text:s text:c="1" />ml-2 &quot; href=&quot;/docs/hub/en/paper-pages&quot; id=&quot;paper-pages&quot;&gt;</text:p>
+<text:p text:style-name="P265"><text:s text:c="8" />&lt;!-- HTML_TAG_START --&gt;Paper Pages&lt;!-- HTML_TAG_END --&gt;</text:p>
+<text:p text:style-name="P266"><text:s text:c="4" />&lt;/a&gt;</text:p>
+<text:p text:style-name="P267">&lt;a class=&quot;flex transform items-center py-1 pl-2 pr-2 text-gray-500 first:mt-1 last:mb-4 hover:translate-x-px hover:text-black dark:hover:text-gray-300 <text:s text:c="1" />ml-2 &quot; href=&quot;/docs/hub/en/search&quot; id=&quot;search&quot;&gt;</text:p>
+<text:p text:style-name="P268"><text:s text:c="8" />&lt;!-- HTML_TAG_START --&gt;Search&lt;!-- HTML_TAG_END --&gt;</text:p>
+<text:p text:style-name="P269"><text:s text:c="4" />&lt;/a&gt;</text:p>
+<text:p text:style-name="P270">&lt;a class=&quot;flex transform items-center py-1 pl-2 pr-2 text-gray-500 first:mt-1 last:mb-4 hover:translate-x-px hover:text-black dark:hover:text-gray-300 <text:s text:c="1" />ml-2 &quot; href=&quot;/docs/hub/en/doi&quot; id=&quot;doi&quot;&gt;</text:p>
+<text:p text:style-name="P271"><text:s text:c="8" />&lt;!-- HTML_TAG_START --&gt;Digital Object Identifier (DOI)&lt;!-- HTML_TAG_END --&gt;</text:p>
+<text:p text:style-name="P272"><text:s text:c="4" />&lt;/a&gt;</text:p>
+<text:p text:style-name="P273">&lt;a class=&quot;flex transform items-center py-1 pl-2 pr-2 text-gray-500 first:mt-1 last:mb-4 hover:translate-x-px hover:text-black dark:hover:text-gray-300 <text:s text:c="1" />ml-2 &quot; href=&quot;/docs/hub/en/api&quot; id=&quot;api&quot;&gt;</text:p>
+<text:p text:style-name="P274"><text:s text:c="8" />&lt;!-- HTML_TAG_START --&gt;Hub API Endpoints&lt;!-- HTML_TAG_END --&gt;</text:p>
+<text:p text:style-name="P275"><text:s text:c="4" />&lt;/a&gt;</text:p>
+<text:p text:style-name="P276">&lt;a class=&quot;flex transform items-center py-1 pl-2 pr-2 text-gray-500 first:mt-1 last:mb-4 hover:translate-x-px hover:text-black dark:hover:text-gray-300 <text:s text:c="1" />ml-2 &quot; href=&quot;/docs/hub/en/oauth&quot; id=&quot;oauth&quot;&gt;</text:p>
+<text:p text:style-name="P277"><text:s text:c="8" />&lt;!-- HTML_TAG_START --&gt;Sign-In with HF&lt;!-- HTML_TAG_END --&gt;</text:p>
+<text:p text:style-name="P278"><text:s text:c="4" />&lt;/a&gt;</text:p>
+<text:p text:style-name="P279"></text:p>
+<text:p text:style-name="P280"><text:s text:c="4" />&lt;/div&gt;&lt;/nav&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</text:p>
+<text:p text:style-name="P281"><text:s text:c="4" />&lt;div class=&quot;z-1 min-w-0 flex-1&quot;&gt;</text:p>
+<text:p text:style-name="P282"><text:s text:c="8" />&lt;div class=&quot;px-6 pt-6 md:px-12 md:pb-16 md:pt-16&quot;&gt;</text:p>
+<text:p text:style-name="P283"><text:s text:c="12" />&lt;div class=&quot;prose-doc prose relative mx-auto max-w-4xl break-words&quot;&gt;&lt;!-- HTML_TAG_START --&gt; <text:s text:c="4" />&lt;link href=&quot;/docs/hub/main/en/_app/immutable/assets/0.e3b0c442.css&quot; rel=&quot;modulepreload&quot;&gt;</text:p>
+<text:p text:style-name="P284"><text:s text:c="4" />&lt;link rel=&quot;modulepreload&quot; href=&quot;/docs/hub/main/en/_app/immutable/entry/start.e53420fc.js&quot;&gt;</text:p>
+<text:p text:style-name="P285"><text:s text:c="4" />&lt;link rel=&quot;modulepreload&quot; href=&quot;/docs/hub/main/en/_app/immutable/chunks/scheduler.d6170356.js&quot;&gt;</text:p>
+<text:p text:style-name="P286"><text:s text:c="4" />&lt;link rel=&quot;modulepreload&quot; href=&quot;/docs/hub/main/en/_app/immutable/chunks/singletons.70054ac2.js&quot;&gt;</text:p>
+<text:p text:style-name="P287"><text:s text:c="4" />&lt;link rel=&quot;modulepreload&quot; href=&quot;/docs/hub/main/en/_app/immutable/chunks/paths.d7e255ee.js&quot;&gt;</text:p>
+<text:p text:style-name="P288"><text:s text:c="4" />&lt;link rel=&quot;modulepreload&quot; href=&quot;/docs/hub/main/en/_app/immutable/entry/app.d5f6b906.js&quot;&gt;</text:p>
+<text:p text:style-name="P289"><text:s text:c="4" />&lt;link rel=&quot;modulepreload&quot; href=&quot;/docs/hub/main/en/_app/immutable/chunks/index.fcd4cc08.js&quot;&gt;</text:p>
+<text:p text:style-name="P290"><text:s text:c="4" />&lt;link rel=&quot;modulepreload&quot; href=&quot;/docs/hub/main/en/_app/immutable/nodes/0.f4318947.js&quot;&gt;</text:p>
+<text:p text:style-name="P291"><text:s text:c="4" />&lt;link rel=&quot;modulepreload&quot; href=&quot;/docs/hub/main/en/_app/immutable/nodes/41.bf04c78e.js&quot;&gt;</text:p>
+<text:p text:style-name="P292"><text:s text:c="4" />&lt;link rel=&quot;modulepreload&quot; href=&quot;/docs/hub/main/en/_app/immutable/chunks/Heading.8660bd0e.js&quot;&gt;&lt;!-- HEAD_svelte-u9bgzb_START --&gt;&lt;meta name=&quot;hf:doc:metadata&quot; content=&quot;{&amp;quot;title&amp;quot;:&amp;quot;Annotated Model Card Template&amp;quot;,&amp;quot;local&amp;quot;:&amp;quot;annotated-model-card-template&amp;quot;,&amp;quot;sections&amp;quot;:[{&amp;quot;title&amp;quot;:&amp;quot;Template&amp;quot;,&amp;quot;local&amp;quot;:&amp;quot;template&amp;quot;,&amp;quot;sections&amp;quot;:[],&amp;quot;depth&amp;quot;:2},{&amp;quot;title&amp;quot;:&amp;quot;Directions&amp;quot;,&amp;quot;local&amp;quot;:&amp;quot;directions&amp;quot;,&amp;quot;sections&amp;quot;:[],&amp;quot;depth&amp;quot;:2}],&amp;quot;depth&amp;quot;:1}&quot;&gt;&lt;!-- HEAD_svelte-u9bgzb_END --&gt; <text:s text:c="5" />&lt;p&gt;&lt;/p&gt; <text:s text:c="1" />&lt;h1 class=&quot;relative group&quot;&gt;&lt;a id=&quot;annotated-model-card-template&quot; class=&quot;header-link block pr-1.5 text-lg no-hover:hidden with-hover:absolute with-hover:p-1.5 with-hover:opacity-0 with-hover:group-hover:opacity-100 with-hover:right-full&quot; href=&quot;#annotated-model-card-template&quot;&gt;&lt;span&gt;&lt;svg class=&quot;&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot; xmlns:xlink=&quot;http://www.w3.org/1999/xlink&quot; aria-hidden=&quot;true&quot; role=&quot;img&quot; width=&quot;1em&quot; height=&quot;1em&quot; preserveAspectRatio=&quot;xMidYMid meet&quot; viewBox=&quot;0 0 256 256&quot;&gt;&lt;path d=&quot;M167.594 88.393a8.001 8.001 0 0 1 0 11.314l-67.882 67.882a8 8 0 1 1-11.314-11.315l67.882-67.881a8.003 8.003 0 0 1 11.314 0zm-28.287 84.86l-28.284 28.284a40 40 0 0 1-56.567-56.567l28.284-28.284a8 8 0 0 0-11.315-11.315l-28.284 28.284a56 56 0 0 0 79.196 79.197l28.285-28.285a8 8 0 1 0-11.315-11.314zM212.852 43.14a56.002 56.002 0 0 0-79.196 0l-28.284 28.284a8 8 0 1 0 11.314 11.314l28.284-28.284a40 40 0 0 1 56.568 56.567l-28.285 28.285a8 8 0 0 0 11.315 11.314l28.284-28.284a56.065 56.065 0 0 0 0-79.196z&quot; fill=&quot;currentColor&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/span&gt;&lt;/a&gt; &lt;span&gt;Annotated Model Card Template&lt;/span&gt;&lt;/h1&gt; <text:s text:c="1" />&lt;h2 class=&quot;relative group&quot;&gt;&lt;a id=&quot;template&quot; class=&quot;header-link block pr-1.5 text-lg no-hover:hidden with-hover:absolute with-hover:p-1.5 with-hover:opacity-0 with-hover:group-hover:opacity-100 with-hover:right-full&quot; href=&quot;#template&quot;&gt;&lt;span&gt;&lt;svg class=&quot;&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot; xmlns:xlink=&quot;http://www.w3.org/1999/xlink&quot; aria-hidden=&quot;true&quot; role=&quot;img&quot; width=&quot;1em&quot; height=&quot;1em&quot; preserveAspectRatio=&quot;xMidYMid meet&quot; viewBox=&quot;0 0 256 256&quot;&gt;&lt;path d=&quot;M167.594 88.393a8.001 8.001 0 0 1 0 11.314l-67.882 67.882a8 8 0 1 1-11.314-11.315l67.882-67.881a8.003 8.003 0 0 1 11.314 0zm-28.287 84.86l-28.284 28.284a40 40 0 0 1-56.567-56.567l28.284-28.284a8 8 0 0 0-11.315-11.315l-28.284 28.284a56 56 0 0 0 79.196 79.197l28.285-28.285a8 8 0 1 0-11.315-11.314zM212.852 43.14a56.002 56.002 0 0 0-79.196 0l-28.284 28.284a8 8 0 1 0 11.314 11.314l28.284-28.284a40 40 0 0 1 56.568 56.567l-28.285 28.285a8 8 0 0 0 11.315 11.314l28.284-28.284a56.065 56.065 0 0 0 0-79.196z&quot; fill=&quot;currentColor&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/span&gt;&lt;/a&gt; &lt;span&gt;Template&lt;/span&gt;&lt;/h2&gt; &lt;p data-svelte-h=&quot;svelte-1oztdix&quot;&gt;&lt;a href=&quot;https://github.com/huggingface/huggingface_hub/blob/main/src/huggingface_hub/templates/modelcard_template.md&quot; rel=&quot;nofollow&quot;&gt;modelcard_template.md file&lt;/a&gt;&lt;/p&gt; <text:s text:c="1" />&lt;h2 class=&quot;relative group&quot;&gt;&lt;a id=&quot;directions&quot; class=&quot;header-link block pr-1.5 text-lg no-hover:hidden with-hover:absolute with-hover:p-1.5 with-hover:opacity-0 with-hover:group-hover:opacity-100 with-hover:right-full&quot; href=&quot;#directions&quot;&gt;&lt;span&gt;&lt;svg class=&quot;&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot; xmlns:xlink=&quot;http://www.w3.org/1999/xlink&quot; aria-hidden=&quot;true&quot; role=&quot;img&quot; width=&quot;1em&quot; height=&quot;1em&quot; preserveAspectRatio=&quot;xMidYMid meet&quot; viewBox=&quot;0 0 256 256&quot;&gt;&lt;path d=&quot;M167.594 88.393a8.001 8.001 0 0 1 0 11.314l-67.882 67.882a8 8 0 1 1-11.314-11.315l67.882-67.881a8.003 8.003 0 0 1 11.314 0zm-28.287 84.86l-28.284 28.284a40 40 0 0 1-56.567-56.567l28.284-28.284a8 8 0 0 0-11.315-11.315l-28.284 28.284a56 56 0 0 0 79.196 79.197l28.285-28.285a8 8 0 1 0-11.315-11.314zM212.852 43.14a56.002 56.002 0 0 0-79.196 0l-28.284 28.284a8 8 0 1 0 11.314 11.314l28.284-28.284a40 40 0 0 1 56.568 56.567l-28.285 28.285a8 8 0 0 0 11.315 11.314l28.284-28.284a56.065 56.065 0 0 0 0-79.196z&quot; fill=&quot;currentColor&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/span&gt;&lt;/a&gt; &lt;span&gt;Directions&lt;/span&gt;&lt;/h2&gt; &lt;p data-svelte-h=&quot;svelte-1ppq7fz&quot;&gt;Fully filling out a model card requires input from a few different roles. (One person may have more than one role.) <text:s text:c="1" />We’ll refer to these roles as the &lt;strong&gt;developer&lt;/strong&gt;, who writes the code and runs training; the &lt;strong&gt;sociotechnic&lt;/strong&gt;, who is skilled at analyzing the interaction of technology and society long-term (this includes lawyers, ethicists, sociologists, or rights advocates); and the &lt;strong&gt;project organizer&lt;/strong&gt;, who understands the overall scope and reach of the model, can roughly fill out each part of the card, and who serves as a contact person for model card updates.&lt;/p&gt; &lt;ul data-svelte-h=&quot;svelte-xicjd9&quot;&gt;&lt;li&gt;&lt;p&gt;The &lt;strong&gt;developer&lt;/strong&gt; is necessary for filling out &lt;a href=&quot;#training-procedure-optional&quot;&gt;Training Procedure&lt;/a&gt; and &lt;a href=&quot;#technical-specifications-optional&quot;&gt;Technical Specifications&lt;/a&gt;. They are also particularly useful for the “Limitations” section of &lt;a href=&quot;#bias-risks-and-limitations&quot;&gt;Bias, Risks, and Limitations&lt;/a&gt;. They are responsible for providing &lt;a href=&quot;#results&quot;&gt;Results&lt;/a&gt; for the Evaluation, and ideally work with the other roles to define the rest of the Evaluation: &lt;a href=&quot;#testing-data-factors--metrics&quot;&gt;Testing Data, Factors &amp;amp; Metrics&lt;/a&gt;.&lt;/p&gt;&lt;/li&gt; &lt;li&gt;&lt;p&gt;The &lt;strong&gt;sociotechnic&lt;/strong&gt; is necessary for filling out “Bias” and “Risks” within &lt;a href=&quot;#bias-risks-and-limitations&quot;&gt;Bias, Risks, and Limitations&lt;/a&gt;, and particularly useful for “Out of Scope Use” within &lt;a href=&quot;#uses&quot;&gt;Uses&lt;/a&gt;.&lt;/p&gt;&lt;/li&gt; &lt;li&gt;&lt;p&gt;The &lt;strong&gt;project organizer&lt;/strong&gt; is necessary for filling out &lt;a href=&quot;#model-details&quot;&gt;Model Details&lt;/a&gt; and &lt;a href=&quot;#uses&quot;&gt;Uses&lt;/a&gt;. They might also fill out</text:p>
+<text:p text:style-name="First_20_paragraph">Training Data. Project
+organizers could also be in charge of Citation, Glossary, Model Card
+Contact, Model Card Authors, and More Information.</text:p>
+<text:p text:style-name="Text_20_body">Instructions are provided below,
+in italics.</text:p>
+<text:p text:style-name="Text_20_body">Template variable names appear in
+monospace.</text:p>
+<text:p text:style-name="Text_20_body"> Model Name</text:p>
+<text:p text:style-name="Text_20_body">Section Overview: Provide the
+model name and a 1-2 sentence summary of what the model is.</text:p>
+<text:p text:style-name="Text_20_body">model_id</text:p>
+<text:p text:style-name="Text_20_body">model_summary</text:p>
+<text:p text:style-name="Text_20_body"> Table of Contents</text:p>
+<text:p text:style-name="Text_20_body">Section Overview: Provide this
+with links to each section, to enable people to easily jump around/use
+the file in other locations with the preserved TOC/print out the
+content/etc.</text:p>
+<text:p text:style-name="Text_20_body"> Model Details</text:p>
+<text:p text:style-name="Text_20_body">Section Overview: This section
+provides basic information about what the model is, its current status,
+and where it came from. It should be useful for anyone who wants to
+reference the model.</text:p>
+<text:p text:style-name="Text_20_body"> Model Description</text:p>
+<text:p text:style-name="Text_20_body">model_description</text:p>
+<text:p text:style-name="Text_20_body">Provide basic details about the
+model. This includes the architecture, version, if it was introduced in
+a paper, if an original implementation is available, and the creators.
+Any copyright should be attributed here. General information about
+training procedures, parameters, and important disclaimers can also be
+mentioned in this section.</text:p>
+<text:p text:style-name="Text_20_body">Developed by: developers</text:p>
+<text:p text:style-name="Text_20_body">List (and ideally link to) the
+people who built the model.</text:p>
+<text:p text:style-name="Text_20_body">Funded by: funded_by</text:p>
+<text:p text:style-name="Text_20_body">List (and ideally link to) the
+funding sources that financially, computationally, or otherwise
+supported or enabled this model.</text:p>
+<text:p text:style-name="Text_20_body">Shared by [optional]:
+shared_by</text:p>
+<text:p text:style-name="Text_20_body">List (and ideally link to) the
+people/organization making the model available online.</text:p>
+<text:p text:style-name="Text_20_body">Model type: model_type</text:p>
+<text:p text:style-name="Text_20_body">You can name the “type”
+as:</text:p>
+<text:p text:style-name="Text_20_body">1. Supervision/Learning
+Method</text:p>
+<text:p text:style-name="Text_20_body">2. Machine Learning Type</text:p>
+<text:p text:style-name="Text_20_body">3. Modality</text:p>
+<text:p text:style-name="Text_20_body">Language(s) [NLP]:
+language</text:p>
+<text:p text:style-name="Text_20_body">Use this field when the system
+uses or processes natural (human) language.</text:p>
+<text:p text:style-name="Text_20_body">License: license</text:p>
+<text:p text:style-name="Text_20_body">Name and link to the license
+being used.</text:p>
+<text:p text:style-name="Text_20_body">Finetuned From Model [optional]:
+base_model</text:p>
+<text:p text:style-name="Text_20_body">If this model has another model
+as its base, link to that model here.</text:p>
+<text:p text:style-name="Text_20_body"> Model Sources optional</text:p>
+<text:p text:style-name="Text_20_body">Repository: repo</text:p>
+<text:p text:style-name="Text_20_body">Paper [optional]: paper</text:p>
+<text:p text:style-name="Text_20_body">Demo [optional]: demo</text:p>
+<text:p text:style-name="Text_20_body">Provide sources for the user to
+directly see the model and its details. Additional kinds of resources –
+training logs, lessons learned, etc. – belong in the More Information
+section. If you include one thing for this section, link to the
+repository.</text:p>
+<text:p text:style-name="Text_20_body"> Uses</text:p>
+<text:p text:style-name="Text_20_body">Section Overview: This section
+addresses questions around how the model is intended to be used in
+different applied contexts, discusses the foreseeable users of the model
+(including those affected by the model), and describes uses that are
+considered out of scope or misuse of the model. Note this section is not
+intended to include the license usage details. For that, link directly
+to the license.</text:p>
+<text:p text:style-name="Text_20_body"> Direct Use</text:p>
+<text:p text:style-name="Text_20_body">direct_use</text:p>
+<text:p text:style-name="Text_20_body">Explain how the model can be used
+without fine-tuning, post-processing, or plugging into a pipeline. An
+example code snippet is recommended.</text:p>
+<text:p text:style-name="Text_20_body"> Downstream Use optional</text:p>
+<text:p text:style-name="Text_20_body">downstream_use</text:p>
+<text:p text:style-name="Text_20_body">Explain how this model can be
+used when fine-tuned for a task or when plugged into a larger ecosystem
+or app. An example code snippet is recommended.</text:p>
+<text:p text:style-name="Text_20_body"> Out-of-Scope Use</text:p>
+<text:p text:style-name="Text_20_body">out_of_scope_use</text:p>
+<text:p text:style-name="Text_20_body">List how the model may
+foreseeably be misused (used in a way it will not work for) and address
+what users ought not do with the model.</text:p>
+<text:p text:style-name="Text_20_body"> Bias, Risks, and
+Limitations</text:p>
+<text:p text:style-name="Text_20_body">Section Overview: This section
+identifies foreseeable harms, misunderstandings, and technical and
+sociotechnical limitations. It also provides information on warnings and
+potential mitigations. Bias, risks, and limitations can sometimes be
+inseparable/refer to the same issues. Generally, bias and risks are
+sociotechnical, while limitations are technical:</text:p>
+<text:p text:style-name="Text_20_body">A bias is a stereotype or
+disproportionate performance (skew) for some subpopulations.</text:p>
+<text:p text:style-name="Text_20_body">A risk is a socially-relevant
+issue that the model might cause.</text:p>
+<text:p text:style-name="Text_20_body">A limitation is a likely failure
+mode that can be addressed following the listed
+Recommendations.</text:p>
+<text:p text:style-name="Text_20_body">bias_risks_limitations</text:p>
+<text:p text:style-name="Text_20_body">What are the known or foreseeable
+issues stemming from this model?</text:p>
+<text:p text:style-name="Text_20_body"> Recommendations</text:p>
+<text:p text:style-name="Text_20_body">bias_recommendations</text:p>
+<text:p text:style-name="Text_20_body">What are recommendations with
+respect to the foreseeable issues? This can include everything from
+“downsample your image” to filtering explicit content.</text:p>
+<text:p text:style-name="Text_20_body"> Training Details</text:p>
+<text:p text:style-name="Text_20_body">Section Overview: This section
+provides information to describe and replicate training, including the
+training data, the speed and size of training elements, and the
+environmental impact of training. This relates heavily to the Technical
+Specifications as well, and content here should link to that section
+when it is relevant to the training procedure. It is useful for people
+who want to learn more about the model inputs and training footprint. It
+is relevant for anyone who wants to know the basics of what the model is
+learning.</text:p>
+<text:p text:style-name="Text_20_body"> Training Data</text:p>
+<text:p text:style-name="Text_20_body">training_data</text:p>
+<text:p text:style-name="Text_20_body">Write 1-2 sentences on what the
+training data is. Ideally this links to a Dataset Card for further
+information. Links to documentation related to data pre-processing or
+additional filtering may go here as well as in More
+Information.</text:p>
+<text:p text:style-name="Text_20_body"> Training Procedure
+optional</text:p>
+<text:p text:style-name="Text_20_body"> Preprocessing</text:p>
+<text:p text:style-name="Text_20_body">preprocessing</text:p>
+<text:p text:style-name="Text_20_body">Detail tokenization,
+resizing/rewriting (depending on the modality), etc.</text:p>
+<text:p text:style-name="Text_20_body"> Speeds, Sizes, Times</text:p>
+<text:p text:style-name="Text_20_body">speeds_sizes_times</text:p>
+<text:p text:style-name="Text_20_body">Detail throughput, start/end
+time, checkpoint sizes, etc.</text:p>
+<text:p text:style-name="Text_20_body"> Evaluation</text:p>
+<text:p text:style-name="Text_20_body">Section Overview: This section
+describes the evaluation protocols, what is being measured in the
+evaluation, and provides the results. Evaluation is ideally constructed
+with factors, such as domain and demographic subgroup, and metrics, such
+as accuracy, which are prioritized in light of foreseeable error
+contexts and groups. Target fairness metrics should be decided based on
+which errors are more likely to be problematic in light of the model
+use. You can also specify your model’s evaluation results in a
+structured way in the model card metadata. Results are parsed by the Hub
+and displayed in a widget on the model page. See
+https://huggingface.co/docs/hub/model-cards#evaluation-results.</text:p>
+<text:p text:style-name="Text_20_body"> Testing Data, Factors &amp;
+Metrics</text:p>
+<text:p text:style-name="Text_20_body"> Testing Data</text:p>
+<text:p text:style-name="Text_20_body">testing_data</text:p>
+<text:p text:style-name="Text_20_body">Ideally this links to a Dataset
+Card for the testing data.</text:p>
+<text:p text:style-name="Text_20_body"> Factors</text:p>
+<text:p text:style-name="Text_20_body">testing_factors</text:p>
+<text:p text:style-name="Text_20_body">What are the foreseeable
+characteristics that will influence how the model behaves? This includes
+domain and context, as well as population subgroups. Evaluation should
+ideally be disaggregated across factors in order to uncover disparities
+in performance.</text:p>
+<text:p text:style-name="Text_20_body"> Metrics</text:p>
+<text:p text:style-name="Text_20_body">testing_metrics</text:p>
+<text:p text:style-name="Text_20_body">What metrics will be used for
+evaluation in light of tradeoffs between different errors?</text:p>
+<text:p text:style-name="Text_20_body"> Results</text:p>
+<text:p text:style-name="Text_20_body">results</text:p>
+<text:p text:style-name="Text_20_body">Results should be based on the
+Factors and Metrics defined above.</text:p>
+<text:p text:style-name="Text_20_body"> Summary</text:p>
+<text:p text:style-name="Text_20_body">results_summary</text:p>
+<text:p text:style-name="Text_20_body">What do the results say? This can
+function as a kind of tl;dr for general audiences.</text:p>
+<text:p text:style-name="Text_20_body"> Model Examination
+optional</text:p>
+<text:p text:style-name="Text_20_body">Section Overview: This is an
+experimental section some developers are beginning to add, where work on
+explainability/interpretability may go.</text:p>
+<text:p text:style-name="Text_20_body">model_examination</text:p>
+<text:p text:style-name="Text_20_body"> Environmental Impact</text:p>
+<text:p text:style-name="Text_20_body">Section Overview: Summarizes the
+information necessary to calculate environmental impacts such as
+electricity usage and carbon emissions.</text:p>
+<text:p text:style-name="Text_20_body">Hardware Type:
+hardware_type</text:p>
+<text:p text:style-name="Text_20_body">Hours used: hours_used</text:p>
+<text:p text:style-name="Text_20_body">Cloud Provider:
+cloud_provider</text:p>
+<text:p text:style-name="Text_20_body">Compute Region:
+cloud_region</text:p>
+<text:p text:style-name="Text_20_body">Carbon Emitted:
+co2_emitted</text:p>
+<text:p text:style-name="Text_20_body">Carbon emissions can be estimated
+using the Machine Learning Impact calculator presented in Lacoste et
+al. (2019).</text:p>
+<text:p text:style-name="Text_20_body"> Technical Specifications
+optional</text:p>
+<text:p text:style-name="Text_20_body">Section Overview: This section
+includes details about the model objective and architecture, and the
+compute infrastructure. It is useful for people interested in model
+development. Writing this section usually requires the model developer
+to be directly involved.</text:p>
+<text:p text:style-name="Text_20_body"> Model Architecture and
+Objective</text:p>
+<text:p text:style-name="Text_20_body">model_specs</text:p>
+<text:p text:style-name="Text_20_body"> Compute Infrastructure</text:p>
+<text:p text:style-name="Text_20_body">compute_infrastructure</text:p>
+<text:p text:style-name="Text_20_body"> Hardware</text:p>
+<text:p text:style-name="Text_20_body">hardware_requirements</text:p>
+<text:p text:style-name="Text_20_body">What are the minimum hardware
+requirements, e.g. processing, storage, and memory
+requirements?</text:p>
+<text:p text:style-name="Text_20_body"> Software</text:p>
+<text:p text:style-name="Text_20_body">software</text:p>
+<text:p text:style-name="Text_20_body"> Citation optional</text:p>
+<text:p text:style-name="Text_20_body">Section Overview: The developers’
+preferred citation for this model. This is often a paper.</text:p>
+<text:p text:style-name="Text_20_body"> BibTeX</text:p>
+<text:p text:style-name="Text_20_body">citation_bibtex</text:p>
+<text:p text:style-name="Text_20_body"> APA</text:p>
+<text:p text:style-name="Text_20_body">citation_apa</text:p>
+<text:p text:style-name="Text_20_body"> Glossary optional</text:p>
+<text:p text:style-name="Text_20_body">Section Overview: This section
+defines common terms and how metrics are calculated.</text:p>
+<text:p text:style-name="Text_20_body">glossary</text:p>
+<text:p text:style-name="Text_20_body">Clearly define terms in order to
+be accessible across audiences.</text:p>
+<text:p text:style-name="Text_20_body"> More Information
+optional</text:p>
+<text:p text:style-name="Text_20_body">Section Overview: This section
+provides links to writing on dataset creation, technical specifications,
+lessons learned, and initial results.</text:p>
+<text:p text:style-name="Text_20_body">more_information</text:p>
+<text:p text:style-name="Text_20_body"> Model Card Authors
+optional</text:p>
+<text:p text:style-name="Text_20_body">Section Overview: This section
+lists the people who create the model card, providing recognition and
+accountability for the detailed work that goes into its
+construction.</text:p>
+<text:p text:style-name="Text_20_body">model_card_authors</text:p>
+<text:p text:style-name="Text_20_body"> Model Card Contact</text:p>
+<text:p text:style-name="Text_20_body">Section Overview: Provides a way
+for people who have updates to the Model Card, suggestions, or
+questions, to contact the Model Card authors</text:p>
+<text:p text:style-name="Text_20_body">model_card_contact</text:p>
+<text:p text:style-name="Text_20_body"> How to Get Started with the
+Model</text:p>
+<text:p text:style-name="Text_20_body">Section Overview: Provides a code
+snippet to show how to use the model.</text:p>
+<text:p text:style-name="Text_20_body">get_started_code</text:p>
+<text:p text:style-name="P293"><text:s text:c="8" />&lt;script&gt;</text:p>
+<text:p text:style-name="P294"><text:s text:c="12" />{</text:p>
+<text:p text:style-name="P295"><text:s text:c="16" />__sveltekit_96y924 = {</text:p>
+<text:p text:style-name="P296"><text:s text:c="20" />assets: &quot;/docs/hub/main/en&quot;,</text:p>
+<text:p text:style-name="P297"><text:s text:c="20" />base: &quot;/docs/hub/main/en&quot;,</text:p>
+<text:p text:style-name="P298"><text:s text:c="20" />env: {}</text:p>
+<text:p text:style-name="P299"><text:s text:c="16" />};</text:p>
+<text:p text:style-name="P300"></text:p>
+<text:p text:style-name="P301"><text:s text:c="16" />const element = document.currentScript.parentElement;</text:p>
+<text:p text:style-name="P302"></text:p>
+<text:p text:style-name="P303"><text:s text:c="16" />const data = [null,null];</text:p>
+<text:p text:style-name="P304"></text:p>
+<text:p text:style-name="P305"><text:s text:c="16" />Promise.all([</text:p>
+<text:p text:style-name="P306"><text:s text:c="20" />import(&quot;/docs/hub/main/en/_app/immutable/entry/start.e53420fc.js&quot;),</text:p>
+<text:p text:style-name="P307"><text:s text:c="20" />import(&quot;/docs/hub/main/en/_app/immutable/entry/app.d5f6b906.js&quot;)</text:p>
+<text:p text:style-name="P308"><text:s text:c="16" />]).then(([kit, app]) =&gt; {</text:p>
+<text:p text:style-name="P309"><text:s text:c="20" />kit.start(app, element, {</text:p>
+<text:p text:style-name="P310"><text:s text:c="24" />node_ids: [0, 41],</text:p>
+<text:p text:style-name="P311"><text:s text:c="24" />data,</text:p>
+<text:p text:style-name="P312"><text:s text:c="24" />form: null,</text:p>
+<text:p text:style-name="P313"><text:s text:c="24" />error: null</text:p>
+<text:p text:style-name="P314"><text:s text:c="20" />});</text:p>
+<text:p text:style-name="P315"><text:s text:c="16" />});</text:p>
+<text:p text:style-name="P316"><text:s text:c="12" />}</text:p>
+<text:p text:style-name="P317"><text:s text:c="8" />&lt;/script&gt;</text:p>
+<text:p text:style-name="P318"><text:s text:c="4" /></text:p>
+<text:p text:style-name="P319"><text:s text:c="12" />&lt;div class=&quot;SVELTE_HYDRATER contents&quot; data-props=&quot;{&amp;quot;classNames&amp;quot;:&amp;quot;mx-auto mt-16 flex max-w-4xl items-center pb-8 font-sans font-medium leading-6 xl:mt-32&amp;quot;,&amp;quot;chapterPrev&amp;quot;:{&amp;quot;title&amp;quot;:&amp;quot;Model Cards&amp;quot;,&amp;quot;isExpanded&amp;quot;:true,&amp;quot;id&amp;quot;:&amp;quot;model-cards&amp;quot;,&amp;quot;url&amp;quot;:&amp;quot;/docs/hub/en/model-cards&amp;quot;,&amp;quot;sections&amp;quot;:[{&amp;quot;title&amp;quot;:&amp;quot;Annotated Model Card&amp;quot;,&amp;quot;isExpanded&amp;quot;:true,&amp;quot;id&amp;quot;:&amp;quot;model-card-annotated&amp;quot;,&amp;quot;url&amp;quot;:&amp;quot;/docs/hub/en/model-card-annotated&amp;quot;},{&amp;quot;title&amp;quot;:&amp;quot;Carbon Emissions&amp;quot;,&amp;quot;id&amp;quot;:&amp;quot;model-cards-co2&amp;quot;,&amp;quot;url&amp;quot;:&amp;quot;/docs/hub/en/model-cards-co2&amp;quot;},{&amp;quot;title&amp;quot;:&amp;quot;Model Card Guidebook&amp;quot;,&amp;quot;id&amp;quot;:&amp;quot;model-card-guidebook&amp;quot;,&amp;quot;url&amp;quot;:&amp;quot;/docs/hub/en/model-card-guidebook&amp;quot;},{&amp;quot;title&amp;quot;:&amp;quot;Landscape Analysis&amp;quot;,&amp;quot;id&amp;quot;:&amp;quot;model-card-landscape-analysis&amp;quot;,&amp;quot;url&amp;quot;:&amp;quot;/docs/hub/en/model-card-landscape-analysis&amp;quot;},{&amp;quot;title&amp;quot;:&amp;quot;Card Components&amp;quot;,&amp;quot;id&amp;quot;:&amp;quot;model-cards-components&amp;quot;,&amp;quot;url&amp;quot;:&amp;quot;/docs/hub/en/model-cards-components&amp;quot;}]},&amp;quot;chapterNext&amp;quot;:{&amp;quot;title&amp;quot;:&amp;quot;Carbon Emissions&amp;quot;,&amp;quot;id&amp;quot;:&amp;quot;model-cards-co2&amp;quot;,&amp;quot;url&amp;quot;:&amp;quot;/docs/hub/en/model-cards-co2&amp;quot;},&amp;quot;isCourse&amp;quot;:false,&amp;quot;isLoggedIn&amp;quot;:true}&quot; data-target=&quot;DocFooterNav&quot;&gt;&lt;div class=&quot;mx-auto mt-16 flex max-w-4xl items-center pb-8 font-sans font-medium leading-6 xl:mt-32&quot;&gt;&lt;a href=&quot;/docs/hub/en/model-cards&quot; class=&quot;mr-8 flex transform items-center text-gray-600 transition-all hover:-translate-x-px hover:text-gray-900 dark:hover:text-gray-300&quot;&gt;&lt;span class=&quot;mr-2 translate-y-px&quot;&gt;←&lt;/span&gt;Model Cards&lt;/a&gt;</text:p>
+<text:p text:style-name="P320">&lt;a href=&quot;/docs/hub/en/model-cards-co2&quot; class=&quot;ml-auto flex transform items-center text-right text-gray-600 transition-all hover:translate-x-px hover:text-gray-900 dark:hover:text-gray-300&quot;&gt;Carbon Emissions&lt;span class=&quot;ml-2 translate-y-px&quot;&gt;→&lt;/span&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</text:p>
+<text:p text:style-name="P321"><text:s text:c="4" />&lt;div class=&quot;sticky top-0 self-start&quot;&gt;&lt;div class=&quot;SVELTE_HYDRATER contents&quot; data-props=&quot;{&amp;quot;chapter&amp;quot;:{&amp;quot;title&amp;quot;:&amp;quot;Annotated Model Card Template&amp;quot;,&amp;quot;isExpanded&amp;quot;:false,&amp;quot;id&amp;quot;:&amp;quot;annotated-model-card-template&amp;quot;,&amp;quot;url&amp;quot;:&amp;quot;#annotated-model-card-template&amp;quot;,&amp;quot;sections&amp;quot;:[{&amp;quot;title&amp;quot;:&amp;quot;Template&amp;quot;,&amp;quot;isExpanded&amp;quot;:false,&amp;quot;id&amp;quot;:&amp;quot;template&amp;quot;,&amp;quot;url&amp;quot;:&amp;quot;#template&amp;quot;,&amp;quot;sections&amp;quot;:[]},{&amp;quot;title&amp;quot;:&amp;quot;Directions&amp;quot;,&amp;quot;isExpanded&amp;quot;:false,&amp;quot;id&amp;quot;:&amp;quot;directions&amp;quot;,&amp;quot;url&amp;quot;:&amp;quot;#directions&amp;quot;,&amp;quot;sections&amp;quot;:[]}]}}&quot; data-target=&quot;SubSideMenu&quot;&gt;</text:p>
+<text:p text:style-name="First_20_paragraph">Annotated Model Card
+Template</text:p>
+<text:p text:style-name="Text_20_body">Template</text:p>
+<text:p text:style-name="Text_20_body">Directions</text:p>
+<text:p text:style-name="P322">&lt;div id=&quot;doc-footer&quot;&gt;&lt;/div&gt;&lt;/main&gt;</text:p>
+<text:p text:style-name="P323">&lt;/div&gt;</text:p>
+<text:p text:style-name="P324"></text:p>
+<text:p text:style-name="P325"><text:s text:c="4" />&lt;script&gt;</text:p>
+<text:p text:style-name="P326"><text:s text:c="8" />import(&quot;/front/build/kube-6910b3c/index.js&quot;);</text:p>
+<text:p text:style-name="P327"><text:s text:c="8" />window.moonSha = &quot;kube-6910b3c/&quot;;</text:p>
+<text:p text:style-name="P328"><text:s text:c="8" />window.hubConfig = JSON.parse(`{&quot;features&quot;:{&quot;signupDisabled&quot;:false},&quot;sshGitUrl&quot;:&quot;git@hf.co&quot;,&quot;moonHttpUrl&quot;:&quot;https://huggingface.co&quot;,&quot;captchaApiKey&quot;:&quot;bd5f2066-93dc-4bdd-a64b-a24646ca3859&quot;,&quot;captchaDisabledOnSignup&quot;:true,&quot;datasetsServerPublicUrl&quot;:&quot;https://datasets-server.huggingface.co&quot;,&quot;stripePublicKey&quot;:&quot;pk_live_x2tdjFXBCvXo2FFmMybezpeM00J6gPCAAc&quot;,&quot;environment&quot;:&quot;production&quot;,&quot;userAgent&quot;:&quot;HuggingFace (production)&quot;}`);</text:p>
+<text:p text:style-name="P329"><text:s text:c="4" />&lt;/script&gt;</text:p>
+<text:p text:style-name="P330"></text:p>
+<text:p text:style-name="P331"><text:s text:c="4" />&lt;!-- Stripe --&gt;</text:p>
+<text:p text:style-name="P332"><text:s text:c="4" />&lt;script&gt;</text:p>
+<text:p text:style-name="P333"><text:s text:c="8" />if ([&quot;hf.co&quot;, &quot;huggingface.co&quot;].includes(window.location.hostname)) {</text:p>
+<text:p text:style-name="P334"><text:s text:c="12" />const script = document.createElement(&quot;script&quot;);</text:p>
+<text:p text:style-name="P335"><text:s text:c="12" />script.src = &quot;https://js.stripe.com/v3/&quot;;</text:p>
+<text:p text:style-name="P336"><text:s text:c="12" />script.async = true;</text:p>
+<text:p text:style-name="P337"><text:s text:c="12" />document.head.appendChild(script);</text:p>
+<text:p text:style-name="P338"><text:s text:c="8" />}</text:p>
+<text:p text:style-name="P339"><text:s text:c="4" />&lt;/script&gt;</text:p>
+<text:p text:style-name="P340"></text:p>
+<text:p text:style-name="P341"><text:s text:c="4" />&lt;!-- Google analytics v4 --&gt;</text:p>
+<text:p text:style-name="P342"><text:s text:c="4" />&lt;script&gt;</text:p>
+<text:p text:style-name="P343"><text:s text:c="8" />if ([&quot;hf.co&quot;, &quot;huggingface.co&quot;].includes(window.location.hostname)) {</text:p>
+<text:p text:style-name="P344"><text:s text:c="12" />const script = document.createElement(&quot;script&quot;);</text:p>
+<text:p text:style-name="P345"><text:s text:c="12" />script.src = &quot;https://www.googletagmanager.com/gtag/js?id=G-8Q63TH4CSL&quot;;</text:p>
+<text:p text:style-name="P346"><text:s text:c="12" />script.async = true;</text:p>
+<text:p text:style-name="P347"><text:s text:c="12" />document.head.appendChild(script);</text:p>
+<text:p text:style-name="P348"></text:p>
+<text:p text:style-name="P349"><text:s text:c="12" />window.dataLayer = window.dataLayer || [];</text:p>
+<text:p text:style-name="P350"><text:s text:c="12" />function gtag() {</text:p>
+<text:p text:style-name="P351"><text:s text:c="16" />if (window.dataLayer !== undefined) {</text:p>
+<text:p text:style-name="P352"><text:s text:c="20" />window.dataLayer.push(arguments);</text:p>
+<text:p text:style-name="P353"><text:s text:c="16" />}</text:p>
+<text:p text:style-name="P354"><text:s text:c="12" />}</text:p>
+<text:p text:style-name="P355"><text:s text:c="12" />gtag(&quot;js&quot;, new Date());</text:p>
+<text:p text:style-name="P356"><text:s text:c="12" />gtag(&quot;config&quot;, &quot;G-8Q63TH4CSL&quot;, { page_path: &quot;/docs/hub/en/model-card-annotated&quot; });</text:p>
+<text:p text:style-name="P357"><text:s text:c="12" />/// ^ See https://developers.google.com/analytics/devguides/collection/gtagjs/pages</text:p>
+<text:p text:style-name="P358"><text:s text:c="12" />gtag(&quot;consent&quot;, &quot;default&quot;, { ad_storage: &quot;denied&quot;, analytics_storage: &quot;denied&quot; });</text:p>
+<text:p text:style-name="P359"><text:s text:c="12" />/// ^ See https://developers.google.com/tag-platform/gtagjs/reference#consent</text:p>
+<text:p text:style-name="P360"><text:s text:c="12" />/// TODO: ask the user for their consent and update this with gtag('consent', 'update')</text:p>
+<text:p text:style-name="P361"><text:s text:c="8" />}</text:p>
+<text:p text:style-name="P362"><text:s text:c="4" />&lt;/script&gt;</text:p>
+<text:p text:style-name="P363">&lt;/body&gt;</text:p>
+</office:text>
+</office:body>
+</office:document-content>
